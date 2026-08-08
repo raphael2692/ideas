@@ -1,0 +1,471 @@
+<title>MRR Radar</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #F1F3F2;
+    --surface: #FFFFFF;
+    --ink: #1B1F23;
+    --secondary: #8A9199;
+    --positive: #0B6E4F;
+    --alert: #B4531B;
+    --line: #E3E6E5;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 14px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Consolas, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+  a { color: inherit; }
+  button, input, select {
+    font: inherit;
+    color: inherit;
+  }
+  :focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 2px;
+  }
+  header {
+    padding: 20px 24px 12px;
+  }
+  h1 {
+    font-size: 18px;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+  }
+  .meta {
+    color: var(--secondary);
+    font-size: 12.5px;
+  }
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+    align-items: center;
+    padding: 0 24px 16px;
+  }
+  .controls input[type="text"],
+  .controls input[type="number"],
+  .controls select {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 6px 8px;
+  }
+  .controls input[type="text"] { min-width: 200px; flex: 1 1 200px; }
+  .controls input[type="number"] { width: 90px; }
+  .mrr-range { display: flex; align-items: center; gap: 4px; color: var(--secondary); }
+  .controls label.check {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+    color: var(--secondary);
+  }
+  main { padding: 0 24px 40px; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--surface);
+  }
+  thead th {
+    text-align: left;
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--secondary);
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--line);
+    white-space: nowrap;
+  }
+  thead th.sortable { cursor: pointer; user-select: none; }
+  thead th.sortable:hover { color: var(--ink); }
+  thead th .arrow { font-size: 10px; margin-left: 2px; }
+  tbody td {
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: middle;
+  }
+  tbody tr.row:hover { background: #FAFBFB; }
+  tbody tr.row { cursor: pointer; }
+  td.num, th.num { text-align: right; }
+  .name { font-weight: 600; }
+  .badge {
+    display: inline-block;
+    font-size: 10.5px;
+    padding: 1px 6px;
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    color: var(--secondary);
+    margin-left: 6px;
+  }
+  .badge.new { color: var(--positive); border-color: var(--positive); }
+  .pct-pos { color: var(--positive); }
+  .pct-neg { color: var(--alert); }
+  .pct-nil { color: var(--secondary); }
+  .accel-glyph { display: block; }
+  .detail-row td {
+    background: #FAFBFB;
+    padding: 12px 10px 16px;
+  }
+  .detail-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 8px 24px;
+    font-size: 13px;
+  }
+  .detail-grid dt { color: var(--secondary); font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.03em; }
+  .detail-grid dd { margin: 2px 0 0; }
+  .detail-desc { grid-column: 1 / -1; }
+  .empty, .error {
+    padding: 40px 10px;
+    text-align: center;
+    color: var(--secondary);
+    background: var(--surface);
+  }
+  .error { color: var(--alert); }
+  .count { color: var(--secondary); font-size: 12.5px; padding: 8px 0; }
+
+  @media (max-width: 700px) {
+    thead { display: none; }
+    table, tbody, tr, td { display: block; width: 100%; }
+    tbody tr.row {
+      border-bottom: 1px solid var(--line);
+      padding: 8px 10px;
+    }
+    tbody td {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      border-bottom: none;
+      padding: 3px 0;
+    }
+    tbody td.num { text-align: right; }
+    tbody td::before {
+      content: attr(data-label);
+      color: var(--secondary);
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      font-size: 12px;
+    }
+    tbody td[data-label=""]::before { display: none; }
+    .detail-row td { display: block; }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    tbody tr.row { transition: background 0.1s ease; }
+  }
+</style>
+
+<header>
+  <h1>MRR Radar</h1>
+  <div class="meta" id="meta">Caricamento…</div>
+</header>
+
+<div class="controls" id="controls" hidden>
+  <input type="text" id="f-search" placeholder="Cerca per nome o descrizione…">
+  <select id="f-category">
+    <option value="">Tutte le categorie</option>
+  </select>
+  <div class="mrr-range">
+    MRR $<input type="number" id="f-mrr-min" min="0" step="100">
+    – $<input type="number" id="f-mrr-max" min="0" step="100">
+  </div>
+  <label class="check"><input type="checkbox" id="f-streak"> Solo streak ≥ 2</label>
+  <label class="check"><input type="checkbox" id="f-new"> Solo nuove entrate</label>
+  <label class="check"><input type="checkbox" id="f-hideproxy"> Nascondi proxy</label>
+</div>
+
+<main>
+  <div id="count" class="count"></div>
+  <table id="table" hidden>
+    <thead>
+      <tr>
+        <th class="sortable" data-sort="name">Prodotto</th>
+        <th>Categoria</th>
+        <th class="sortable num" data-sort="mrr_now">MRR</th>
+        <th class="sortable num" data-sort="g7">7g</th>
+        <th class="sortable num" data-sort="accel">Accel</th>
+        <th class="sortable num" data-sort="streak">Streak</th>
+        <th class="sortable num" data-sort="score">Score</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div id="empty" class="empty" hidden>Nessuna startup corrisponde ai filtri. Allarga il range di MRR.</div>
+  <div id="error" class="error" hidden>data.json non raggiungibile. Esegui <code>python scripts/build.py</code>.</div>
+</main>
+
+<script>
+"use strict";
+
+var DEFAULTS = { mrrMin: 200, mrrMax: 10000 };
+var state = { rows: [], sortKey: "score", sortDir: "desc", expanded: null };
+
+function qs() {
+  return new URLSearchParams(location.search);
+}
+
+function readFilters() {
+  var p = qs();
+  return {
+    q: p.get("q") || "",
+    cat: p.get("cat") || "",
+    mrrMin: p.has("mrrMin") ? Number(p.get("mrrMin")) : DEFAULTS.mrrMin,
+    mrrMax: p.has("mrrMax") ? Number(p.get("mrrMax")) : DEFAULTS.mrrMax,
+    streak2: p.get("streak2") === "1",
+    onlyNew: p.get("new") === "1",
+    hideProxy: p.get("hideproxy") === "1",
+    sort: p.get("sort") || "score",
+    dir: p.get("dir") || "desc",
+  };
+}
+
+function writeFilters(f) {
+  var p = new URLSearchParams();
+  if (f.q) p.set("q", f.q);
+  if (f.cat) p.set("cat", f.cat);
+  if (f.mrrMin !== DEFAULTS.mrrMin) p.set("mrrMin", f.mrrMin);
+  if (f.mrrMax !== DEFAULTS.mrrMax) p.set("mrrMax", f.mrrMax);
+  if (f.streak2) p.set("streak2", "1");
+  if (f.onlyNew) p.set("new", "1");
+  if (f.hideProxy) p.set("hideproxy", "1");
+  if (f.sort !== "score") p.set("sort", f.sort);
+  if (f.dir !== "desc") p.set("dir", f.dir);
+  var qsStr = p.toString();
+  history.replaceState(null, "", qsStr ? "?" + qsStr : location.pathname);
+}
+
+function usd(cents) {
+  if (cents === null || cents === undefined) return "n/d";
+  return "$" + Math.round(cents / 100).toLocaleString("en-US");
+}
+
+function pctSpan(value) {
+  if (value === null || value === undefined) {
+    return '<span class="num pct-nil">n/d</span>';
+  }
+  var cls = value > 0 ? "pct-pos" : value < 0 ? "pct-neg" : "pct-nil";
+  var sign = value > 0 ? "+" : "";
+  return '<span class="num ' + cls + '">' + sign + value.toFixed(1) + "%</span>";
+}
+
+function accelGlyph(g7prev, accel) {
+  if (accel === null || accel === undefined || g7prev === null || g7prev === undefined) {
+    return '<svg class="accel-glyph" width="40" height="20" viewBox="0 0 40 20" aria-hidden="true">' +
+      '<line x1="2" y1="17" x2="38" y2="17" stroke="var(--secondary)" stroke-width="1.5" stroke-dasharray="2 2"/></svg>';
+  }
+  var g7 = g7prev + accel;
+  function y(v) { return 18 - (clamp(v, -50, 50) + 50) / 100 * 16; }
+  var pts = [[2, y(0)], [20, y(g7prev)], [38, y(g7)]];
+  var color = accel > 0 ? "var(--positive)" : accel < 0 ? "var(--alert)" : "var(--secondary)";
+  var d = "M" + pts.map(function (p) { return p[0] + "," + p[1]; }).join(" L");
+  return '<svg class="accel-glyph" width="40" height="20" viewBox="0 0 40 20" aria-hidden="true">' +
+    '<path d="' + d + '" fill="none" stroke="' + color + '" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+}
+
+function clamp(x, lo, hi) { return Math.max(lo, Math.min(hi, x)); }
+
+function sparkPath(spark) {
+  if (!spark || spark.length < 2) return "";
+  var values = spark.map(function (p) { return p[1]; });
+  var min = Math.min.apply(null, values), max = Math.max.apply(null, values);
+  var range = max - min || 1;
+  var w = 100, h = 24;
+  var pts = spark.map(function (p, i) {
+    var x = (i / (spark.length - 1)) * w;
+    var y = h - ((p[1] - min) / range) * h;
+    return x + "," + y;
+  });
+  return '<svg width="' + w + '" height="' + h + '" viewBox="0 0 ' + w + ' ' + h + '" aria-hidden="true">' +
+    '<polyline points="' + pts.join(" ") + '" fill="none" stroke="var(--ink)" stroke-width="1.25"/></svg>';
+}
+
+function applyFilters(rows, f) {
+  var q = f.q.trim().toLowerCase();
+  return rows.filter(function (r) {
+    if (f.cat && r.category !== f.cat) return false;
+    var mrrDollars = (r.mrr_now || 0) / 100;
+    if (mrrDollars < f.mrrMin || mrrDollars > f.mrrMax) return false;
+    if (f.streak2 && r.streak < 2) return false;
+    if (f.onlyNew && !r.is_new) return false;
+    if (f.hideProxy && r.proxy) return false;
+    if (q) {
+      var hay = (r.name || "") + " " + (r.description || "");
+      if (hay.toLowerCase().indexOf(q) === -1) return false;
+    }
+    return true;
+  });
+}
+
+function sortRows(rows, key, dir) {
+  var mul = dir === "asc" ? 1 : -1;
+  return rows.slice().sort(function (a, b) {
+    var av = a[key], bv = b[key];
+    if (av === null || av === undefined) av = key === "name" ? "" : -Infinity;
+    if (bv === null || bv === undefined) bv = key === "name" ? "" : -Infinity;
+    if (av < bv) return -1 * mul;
+    if (av > bv) return 1 * mul;
+    return 0;
+  });
+}
+
+function rowHtml(r) {
+  var newBadge = r.is_new ? '<span class="badge new">nuova</span>' : "";
+  var proxyBadge = r.proxy ? '<span class="badge">proxy</span>' : "";
+  return "" +
+    '<td data-label="Prodotto"><span class="name">' + escapeHtml(r.name || r.slug) + "</span>" + newBadge + proxyBadge + "</td>" +
+    '<td data-label="Categoria">' + escapeHtml(r.category || "n/d") + "</td>" +
+    '<td class="num" data-label="MRR">' + usd(r.mrr_now) + "</td>" +
+    '<td class="num" data-label="7g">' + pctSpan(r.g7) + "</td>" +
+    '<td class="num" data-label="Accel">' + accelGlyph(r.g7 !== null && r.accel !== null ? r.g7 - r.accel : null, r.accel) + "</td>" +
+    '<td class="num" data-label="Streak">' + r.streak + "</td>" +
+    '<td class="num" data-label="Score">' + (r.score === null ? '<span class="pct-nil">n/d</span>' : r.score) + "</td>";
+}
+
+function detailHtml(r) {
+  return '<div class="detail-grid">' +
+    '<div class="detail-desc"><dt>Descrizione</dt><dd>' + escapeHtml(r.description || "n/d") + "</dd></div>" +
+    "<div><dt>Revenue totale</dt><dd>" + usd(r.total) + "</dd></div>" +
+    "<div><dt>Ultimi 30gg</dt><dd>" + usd(r.last30Days) + "</dd></div>" +
+    "<div><dt>Crescita 30g dichiarata</dt><dd>" + fmtPct(r.growth30d) + "</dd></div>" +
+    "<div><dt>Crescita MRR 30g dichiarata</dt><dd>" + fmtPct(r.growthMRR30d) + "</dd></div>" +
+    "<div><dt>Sparkline</dt><dd>" + sparkPath(r.spark) + "</dd></div>" +
+    (r.onSale ? "<div><dt>In vendita</dt><dd>" + usd(r.askingPrice) + (r.multiple ? " (" + r.multiple.toFixed(2) + "x)" : "") + "</dd></div>" : "") +
+    '<div><dt>TrustMRR</dt><dd><a href="https://trustmrr.com/startup/' + encodeURIComponent(r.slug) + '" target="_blank" rel="noopener">apri pagina →</a></dd></div>' +
+    "</div>";
+}
+
+function fmtPct(v) {
+  if (v === null || v === undefined) return "n/d";
+  var sign = v > 0 ? "+" : "";
+  return sign + v.toFixed(1) + "%";
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, function (c) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+  });
+}
+
+function render() {
+  var f = readFilters();
+  document.getElementById("f-search").value = f.q;
+  document.getElementById("f-category").value = f.cat;
+  document.getElementById("f-mrr-min").value = f.mrrMin;
+  document.getElementById("f-mrr-max").value = f.mrrMax;
+  document.getElementById("f-streak").checked = f.streak2;
+  document.getElementById("f-new").checked = f.onlyNew;
+  document.getElementById("f-hideproxy").checked = f.hideProxy;
+
+  var filtered = applyFilters(state.rows, f);
+  var sorted = sortRows(filtered, f.sort, f.dir);
+
+  document.querySelectorAll("th.sortable").forEach(function (th) {
+    var key = th.dataset.sort;
+    var arrow = th.querySelector(".arrow");
+    if (arrow) arrow.remove();
+    if (key === f.sort) {
+      th.insertAdjacentHTML("beforeend", '<span class="arrow">' + (f.dir === "asc" ? "↑" : "↓") + "</span>");
+    }
+  });
+
+  var tbody = document.getElementById("tbody");
+  tbody.innerHTML = "";
+  sorted.forEach(function (r) {
+    var tr = document.createElement("tr");
+    tr.className = "row";
+    tr.tabIndex = 0;
+    tr.innerHTML = rowHtml(r);
+    tr.addEventListener("click", function () { toggleDetail(r.slug); });
+    tr.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggleDetail(r.slug); }
+    });
+    tbody.appendChild(tr);
+    if (state.expanded === r.slug) {
+      var dtr = document.createElement("tr");
+      dtr.className = "detail-row";
+      dtr.innerHTML = '<td colspan="7">' + detailHtml(r) + "</td>";
+      tbody.appendChild(dtr);
+    }
+  });
+
+  document.getElementById("count").textContent = sorted.length + " / " + state.rows.length + " startup";
+  document.getElementById("table").hidden = sorted.length === 0;
+  document.getElementById("empty").hidden = sorted.length !== 0;
+}
+
+function toggleDetail(slug) {
+  state.expanded = state.expanded === slug ? null : slug;
+  render();
+}
+
+function updateFilter(patch) {
+  var f = readFilters();
+  Object.assign(f, patch);
+  writeFilters(f);
+  render();
+}
+
+function wireControls() {
+  document.getElementById("f-search").addEventListener("input", function (e) { updateFilter({ q: e.target.value }); });
+  document.getElementById("f-category").addEventListener("change", function (e) { updateFilter({ cat: e.target.value }); });
+  document.getElementById("f-mrr-min").addEventListener("change", function (e) { updateFilter({ mrrMin: Number(e.target.value) || 0 }); });
+  document.getElementById("f-mrr-max").addEventListener("change", function (e) { updateFilter({ mrrMax: Number(e.target.value) || 0 }); });
+  document.getElementById("f-streak").addEventListener("change", function (e) { updateFilter({ streak2: e.target.checked }); });
+  document.getElementById("f-new").addEventListener("change", function (e) { updateFilter({ onlyNew: e.target.checked }); });
+  document.getElementById("f-hideproxy").addEventListener("change", function (e) { updateFilter({ hideProxy: e.target.checked }); });
+  document.querySelectorAll("th.sortable").forEach(function (th) {
+    th.addEventListener("click", function () {
+      var f = readFilters();
+      var key = th.dataset.sort;
+      if (f.sort === key) {
+        updateFilter({ dir: f.dir === "asc" ? "desc" : "asc" });
+      } else {
+        updateFilter({ sort: key, dir: "desc" });
+      }
+    });
+  });
+}
+
+function populateCategories(categories) {
+  var sel = document.getElementById("f-category");
+  categories.forEach(function (c) {
+    var opt = document.createElement("option");
+    opt.value = c;
+    opt.textContent = c;
+    sel.appendChild(opt);
+  });
+}
+
+fetch("data.json")
+  .then(function (resp) {
+    if (!resp.ok) throw new Error("HTTP " + resp.status);
+    return resp.json();
+  })
+  .then(function (data) {
+    state.rows = data.startups;
+    populateCategories(data.meta.categories || []);
+    var d = new Date(data.meta.generated_at);
+    document.getElementById("meta").textContent =
+      data.startups.length + " startup · " + data.meta.snapshots_count + " snapshot · aggiornato " + d.toLocaleString("it-IT");
+    document.getElementById("controls").hidden = false;
+    wireControls();
+    render();
+  })
+  .catch(function () {
+    document.getElementById("meta").textContent = "";
+    document.getElementById("error").hidden = false;
+  });
+
+window.addEventListener("popstate", function () {
+  if (state.rows.length) render();
+});
+</script>

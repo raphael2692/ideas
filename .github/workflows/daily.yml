@@ -1,0 +1,27 @@
+name: daily
+on:
+  schedule:
+    - cron: "0 5 * * *"      # 07:00 in Italia d'estate, 06:00 d'inverno
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily
+  cancel-in-progress: false
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python scripts/fetch.py
+      - run: python scripts/build.py
+      - name: Commit condizionale
+        run: |
+          git config user.name "mrr-radar"
+          git config user.email "actions@github.com"
+          git add data reports docs
+          git diff --staged --quiet || git commit -m "snapshot $(date -u +%F)"
+          git push
