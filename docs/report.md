@@ -1,38 +1,38 @@
-# MRR Radar — 13 novembre 2026
+# MRR Radar — 14 novembre 2026
 
-1706 startup tracciate · 97 snapshot · storico dal 2026-08-08
+1718 startup tracciate · 98 snapshot · storico dal 2026-08-08
 
 ## Categorie in movimento
 
 
 | Categoria | Crescita mediana 7g | In crescita | Tracciate |
 |---|---|---|---|
-| recruiting | +6.7% | 2 | 4 |
-| customer-support | +3.3% | 2 | 9 |
+| recruiting | +14.0% | 2 | 4 |
 | design-tools | +0.0% | 1 | 8 |
-| sales | -0.4% | 1 | 8 |
-| ai | +0.0% | 1 | 33 |
-| entertainment | +2.4% | 0 | 8 |
-| real-estate | +2.3% | 0 | 4 |
+| sales | -1.4% | 1 | 8 |
+| customer-support | +5.1% | 1 | 9 |
 | games | +0.9% | 0 | 4 |
-| education | +0.6% | 0 | 7 |
 | travel | +0.3% | 0 | 4 |
+| entertainment | +0.3% | 0 | 8 |
+| education | +0.2% | 0 | 7 |
 | utilities | +0.0% | 0 | 6 |
+| ai | +0.0% | 0 | 33 |
 | developer-tools | +0.0% | 0 | 10 |
 | analytics | +0.0% | 0 | 6 |
 | health-fitness | +0.0% | 0 | 13 |
 | community | +0.0% | 0 | 5 |
+| real-estate | -0.0% | 0 | 4 |
 | productivity | -0.1% | 0 | 10 |
 | iot-hardware | -0.2% | 0 | 5 |
-| mobile-apps | -0.2% | 0 | 11 |
-| saas | -0.4% | 0 | 21 |
-| marketing | -0.6% | 0 | 10 |
+| saas | -0.5% | 0 | 21 |
+| mobile-apps | -0.6% | 0 | 11 |
 | no-code | -0.6% | 0 | 3 |
-| ecommerce | -0.9% | 0 | 17 |
-| social-media | -2.0% | 0 | 4 |
-| fintech | -3.7% | 0 | 5 |
+| marketing | -1.0% | 0 | 10 |
+| ecommerce | -1.1% | 0 | 17 |
+| social-media | -3.1% | 0 | 4 |
+| fintech | -4.2% | 0 | 5 |
 | marketplace | -5.5% | 0 | 4 |
-| news-magazines | -7.6% | 0 | 5 |
+| news-magazines | -7.7% | 0 | 5 |
 | crypto-web3 | -7.8% | 0 | 3 |
 
 ## In accelerazione
@@ -42,96 +42,96 @@ Le 20 con `accel` piu' alto e MRR fra $200 e $10k.
 |---|---|---|---|---|---|---|---|---|
 | 1 | Stealth Company | n/d | $504 | +12500.0% | +12500.0% | 0 | 75 | https://trustmrr.com/startup/stealth-company-41 |
 | 2 | Vruum | n/d | $600 | +100.0% | +100.0% | 0 | 75 | https://trustmrr.com/startup/vruum |
-| 3 | HarperAI | real-estate | $2,620 | +9.6% | +71.2% | 0 | 39 | https://trustmrr.com/startup/harper |
-| 4 | Creathoon.com | n/d | $356 | +43.6% | +68.5% | 4 | 77 | https://trustmrr.com/startup/creathoon-com |
-| 5 | interviewcopilot.ai | n/d | $894 | +82.5% | +57.5% | 0 | 68 | https://trustmrr.com/startup/interviewcopilot-ai |
-| 6 | KreatorflowAI | n/d | $7,123 | +120.6% | +50.8% | 11 | 100 | https://trustmrr.com/startup/kreatorflowai |
-| 7 | ShopTok | n/d | $7,443 | +73.0% | +43.6% | 9 | 85 | https://trustmrr.com/startup/shoptok |
-| 8 | Dreamini AI | n/d | $1,147 | +35.9% | +43.1% | 4 | 70 | https://trustmrr.com/startup/dreamini-ai |
-| 9 | Hidden Business | n/d | $3,040 | +0.0% | +42.5% | 0 | 30 | https://trustmrr.com/startup/redlift |
+| 3 | Brandiz | n/d | $1,312 | +83.8% | +83.8% | 0 | 69 | https://trustmrr.com/startup/brandiz |
+| 4 | Hidden Business | n/d | $4,165 | +37.0% | +79.5% | 1 | 56 | https://trustmrr.com/startup/redlift |
+| 5 | HarperAI | real-estate | $2,620 | +9.6% | +71.2% | 0 | 39 | https://trustmrr.com/startup/harper |
+| 6 | Creathoon.com | n/d | $356 | +43.6% | +68.5% | 4 | 77 | https://trustmrr.com/startup/creathoon-com |
+| 7 | interviewcopilot.ai | n/d | $894 | +82.5% | +57.5% | 0 | 68 | https://trustmrr.com/startup/interviewcopilot-ai |
+| 8 | KreatorflowAI | n/d | $7,123 | +120.6% | +50.8% | 11 | 100 | https://trustmrr.com/startup/kreatorflowai |
+| 9 | Dreamini AI | n/d | $1,147 | +35.9% | +43.1% | 4 | 70 | https://trustmrr.com/startup/dreamini-ai |
 | 10 | Anim8 | n/d | $1,281 | +41.9% | +42.4% | 0 | 46 | https://trustmrr.com/startup/ternary-studios |
-| 11 | Unnamed Company | n/d | $2,738 | -1.8% | +40.2% | 0 | 28 | https://trustmrr.com/startup/whitelabel-ai-assistants-builder-huge-opportunity-98-margin-250k |
-| 12 | ProjectHQ | n/d | $346 | +40.1% | +40.1% | 0 | 44 | https://trustmrr.com/startup/projecthq |
-| 13 | Next Level Builders | n/d | $718 | -3.9% | +34.7% | 1 | 31 | https://trustmrr.com/startup/next-level-builders |
-| 14 | Whappy, Inc. | n/d | $654 | +32.9% | +33.0% | 0 | 36 | https://trustmrr.com/startup/whappy-inc |
-| 15 | Private Venture | n/d | $4,166 | -2.0% | +29.1% | 0 | 20 | https://trustmrr.com/startup/the-caribbean-s-ai |
-| 16 | GodsView AI | n/d | $3,761 | +0.0% | +27.1% | 0 | 19 | https://trustmrr.com/startup/godsviewai |
-| 17 | Confidential Startup | n/d | $7,255 | +82.8% | +25.4% | 8 | 76 | https://trustmrr.com/startup/confidential-startup-29 |
-| 18 | Brandiz | n/d | $1,312 | +83.8% | +25.1% | 1 | 57 | https://trustmrr.com/startup/brandiz |
-| 19 | AI Directories | n/d | $683 | +23.2% | +23.2% | 1 | 32 | https://trustmrr.com/startup/ai-directories |
-| 20 | ChillScript: Content Ideas | n/d | $374 | +34.5% | +22.9% | 0 | 30 | https://trustmrr.com/startup/chillscript-content-ideas |
+| 11 | ShopTok | n/d | $7,788 | +72.8% | +41.0% | 10 | 83 | https://trustmrr.com/startup/shoptok |
+| 12 | Unnamed Company | n/d | $2,738 | -1.8% | +40.2% | 0 | 28 | https://trustmrr.com/startup/whitelabel-ai-assistants-builder-huge-opportunity-98-margin-250k |
+| 13 | ProjectHQ | n/d | $346 | +40.1% | +40.1% | 0 | 44 | https://trustmrr.com/startup/projecthq |
+| 14 | Next Level Builders | n/d | $718 | -3.9% | +34.7% | 0 | 24 | https://trustmrr.com/startup/next-level-builders |
+| 15 | Whappy, Inc. | n/d | $654 | +32.9% | +33.0% | 0 | 36 | https://trustmrr.com/startup/whappy-inc |
+| 16 | Private Venture | n/d | $4,166 | -2.0% | +29.1% | 0 | 20 | https://trustmrr.com/startup/the-caribbean-s-ai |
+| 17 | GodsView AI | n/d | $3,761 | +0.0% | +27.9% | 0 | 20 | https://trustmrr.com/startup/godsviewai |
+| 18 | AMPLIFY TEAM LIMITED | n/d | $310 | +14.8% | +27.7% | 0 | 25 | https://trustmrr.com/startup/getamplifyteam |
+| 19 | Confidential Startup | n/d | $7,255 | +82.8% | +25.4% | 8 | 76 | https://trustmrr.com/startup/confidential-startup-29 |
+| 20 | AI Directories | n/d | $683 | +23.2% | +23.2% | 0 | 26 | https://trustmrr.com/startup/ai-directories |
 
 ## Nuove entrate
 Comparse negli ultimi 14 giorni, ordinate per MRR.
 
 | Prodotto | Categoria | MRR | Link |
 |---|---|---|---|
-| AiSDR INC. | ai | $182,283 | https://trustmrr.com/startup/aisdr-inc |
+| AiSDR INC. | ai | $182,341 | https://trustmrr.com/startup/aisdr-inc |
 | Stealth Company | n/d | $76,188 | https://trustmrr.com/startup/stealth-company-97 |
-| DM Champ | customer-support | $59,420 | https://trustmrr.com/startup/dm-champ |
-| Unnamed Company | mobile-apps | $57,136 | https://trustmrr.com/startup/unnamed-company-69 |
-| Stencil AI | design-tools | $48,845 | https://trustmrr.com/startup/stencil-ai |
-| Store Stock Checker | n/d | $33,176 | https://trustmrr.com/startup/store-stock-checker |
-| Stealth Venture | n/d | $25,484 | https://trustmrr.com/startup/stealth-venture-44 |
+| DM Champ | customer-support | $64,740 | https://trustmrr.com/startup/dm-champ |
+| Unnamed Company | mobile-apps | $57,369 | https://trustmrr.com/startup/unnamed-company-69 |
+| Stencil AI | design-tools | $48,747 | https://trustmrr.com/startup/stencil-ai |
+| Store Stock Checker | n/d | $33,616 | https://trustmrr.com/startup/store-stock-checker |
+| Stealth Venture | n/d | $25,408 | https://trustmrr.com/startup/stealth-venture-44 |
+| Deeplead.io | n/d | $25,291 | https://trustmrr.com/startup/deeplead-io |
+| Monkei, LLC | community | $24,675 | https://trustmrr.com/startup/monkei |
 | Mindset App | productivity | $24,504 | https://trustmrr.com/startup/mindset-app |
-| Monkei, LLC | community | $23,990 | https://trustmrr.com/startup/monkei |
-| Deeplead.io | n/d | $23,716 | https://trustmrr.com/startup/deeplead-io |
-| Heyron | community | $17,240 | https://trustmrr.com/startup/heyron |
+| Heyron | community | $17,260 | https://trustmrr.com/startup/heyron |
 | Digidoktor | health-fitness | $16,773 | https://trustmrr.com/startup/digidoktor |
 | Confidential Startup | n/d | $12,711 | https://trustmrr.com/startup/startup-984cb79ba398 |
-| GetAmiora | n/d | $12,102 | https://trustmrr.com/startup/getamiora |
-| Natively AI | n/d | $10,224 | https://trustmrr.com/startup/natively-ai |
-| Redak | n/d | $8,623 | https://trustmrr.com/startup/redak |
+| GetAmiora | n/d | $11,928 | https://trustmrr.com/startup/getamiora |
+| Natively AI | n/d | $10,226 | https://trustmrr.com/startup/natively-ai |
+| Redak | n/d | $9,138 | https://trustmrr.com/startup/redak |
 | Unrestricted.sh | n/d | $4,188 | https://trustmrr.com/startup/unrestricted |
 | Quicklead | n/d | $4,184 | https://trustmrr.com/startup/quicklead |
-| Scalereach.ai | n/d | $2,383 | https://trustmrr.com/startup/scalereach |
-| Sublo | n/d | $1,594 | https://trustmrr.com/startup/sublo |
+| Chart Scanner AI | n/d | $2,569 | https://trustmrr.com/startup/chart-scanner-ai |
+| Scalereach.ai | n/d | $2,408 | https://trustmrr.com/startup/scalereach |
+| Sublo | n/d | $1,626 | https://trustmrr.com/startup/sublo |
 | Guest Detective | n/d | $1,229 | https://trustmrr.com/startup/guest-detective |
-| PartyPicks - Draft Party Games | n/d | $1,184 | https://trustmrr.com/startup/target-ai |
+| SkinPal AI | n/d | $1,203 | https://trustmrr.com/startup/skinpal-ai |
 | ONPUSH | n/d | $924 | https://trustmrr.com/startup/onpush |
 | ZebraSnap | n/d | $896 | https://trustmrr.com/startup/zebrasnap |
-| Stealth Venture | n/d | $852 | https://trustmrr.com/startup/startup-bf2caf96bf50 |
+| Stealth Venture | n/d | $854 | https://trustmrr.com/startup/startup-bf2caf96bf50 |
 | Free Contact Form to Email API for Modern Websites | n/d | $656 | https://trustmrr.com/startup/formbold |
 | Doz | n/d | $604 | https://trustmrr.com/startup/doz |
-| SaasUnlock | n/d | $598 | https://trustmrr.com/startup/saasunlock |
-| Private Venture | n/d | $518 | https://trustmrr.com/startup/private-venture-103 |
-| Confidential Startup | n/d | $504 | https://trustmrr.com/startup/startup-9235f031acf0 |
+| SaasUnlock | n/d | $596 | https://trustmrr.com/startup/saasunlock |
+| Private Venture | n/d | $515 | https://trustmrr.com/startup/private-venture-103 |
 
 ## Streak piu' lunghe
 Crescita ininterrotta da almeno 3 snapshot.
 
 | Prodotto | Streak | MRR | Link |
 |---|---|---|---|
-| Postiz | 50 | $413,112 | https://trustmrr.com/startup/postiz |
+| Postiz | 51 | $417,774 | https://trustmrr.com/startup/postiz |
 | Private Enterprise | 36 | $27,802 | https://trustmrr.com/startup/startup-f3f1223a4583 |
 | Skillry | 30 | $4,184 | https://trustmrr.com/startup/skillry |
-| Tether Mobile | 21 | $2,540 | https://trustmrr.com/startup/tether-mobile |
+| Tether Mobile | 22 | $2,670 | https://trustmrr.com/startup/tether-mobile |
 | Ritmo | 18 | $6,627 | https://trustmrr.com/startup/ritmoapp |
 | The Stealthiest of Ventures | 16 | $26,866 | https://trustmrr.com/startup/aleksandersivertsen |
-| Private Enterprise | 13 | $36,554 | https://trustmrr.com/startup/mobile-app-4 |
-| Deepnia | 13 | $457 | https://trustmrr.com/startup/deepnia |
+| Private Enterprise | 14 | $36,744 | https://trustmrr.com/startup/mobile-app-4 |
+| Deepnia | 14 | $465 | https://trustmrr.com/startup/deepnia |
 | Dalea AI | 12 | $3,186 | https://trustmrr.com/startup/dalea-ai |
 | TrendStory | 11 | $87,681 | https://trustmrr.com/startup/trendstory |
 | KreatorflowAI | 11 | $7,123 | https://trustmrr.com/startup/kreatorflowai |
+| Store Stock Checker | 11 | $33,616 | https://trustmrr.com/startup/store-stock-checker |
+| SoundBoost.ai (formerly Diktatorial) | 10 | $32,948 | https://trustmrr.com/startup/soundboost-ai-formerly-diktatorial |
+| ShopTok | 10 | $7,788 | https://trustmrr.com/startup/shoptok |
 | Lyro | 10 | $3,626 | https://trustmrr.com/startup/lyro |
-| Store Stock Checker | 10 | $33,176 | https://trustmrr.com/startup/store-stock-checker |
+| BookWitch | 10 | $1,033 | https://trustmrr.com/startup/bookwitch |
+| TikMonitor | 9 | $1,952 | https://trustmrr.com/startup/tikmonitor |
 | Anonymous Startup | 9 | $16,713 | https://trustmrr.com/startup/startup-b073bcd5ff60 |
 | Verbi | 9 | $23,920 | https://trustmrr.com/startup/verbi |
-| SoundBoost.ai (formerly Diktatorial) | 9 | $32,260 | https://trustmrr.com/startup/soundboost-ai-formerly-diktatorial |
-| ShopTok | 9 | $7,443 | https://trustmrr.com/startup/shoptok |
 | bytemail | 9 | $539 | https://trustmrr.com/startup/bytemail |
-| BookWitch | 9 | $1,024 | https://trustmrr.com/startup/bookwitch |
 | Anonymous Startup | 8 | $11,904 | https://trustmrr.com/startup/anonymous-startup-30 |
 | Confidential Startup | 8 | $7,255 | https://trustmrr.com/startup/confidential-startup-29 |
-| TikMonitor | 8 | $1,903 | https://trustmrr.com/startup/tikmonitor |
 | helumi | 8 | $639 | https://trustmrr.com/startup/helumi |
 | Private Venture | 7 | $48,100 | https://trustmrr.com/startup/private-venture-76 |
-| ClipUtils | 7 | $442 | https://trustmrr.com/startup/cliputils |
+| MausBot | 7 | $14,046 | https://trustmrr.com/startup/mausbot |
+| Scalereach.ai | 7 | $2,408 | https://trustmrr.com/startup/scalereach |
+| Sublo | 7 | $1,626 | https://trustmrr.com/startup/sublo |
 | Private Enterprise | 6 | $1,994 | https://trustmrr.com/startup/private-enterprise-39 |
 | Tifox | 6 | $112 | https://trustmrr.com/startup/tifox |
 | Stealth Company | 6 | $8,347 | https://trustmrr.com/startup/stealth-company-63 |
-| studyai.fr | 6 | $237 | https://trustmrr.com/startup/studyai-fr |
-| Welya, Inc. | 6 | $33,668 | https://trustmrr.com/startup/welya-inc |
 
 ## Tabella completa
 Tutte le startup con storico sufficiente, ordinate per score.
@@ -139,128 +139,120 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Prodotto | Categoria | MRR | 7g | Accel | Streak | Score | Link |
 |---|---|---|---|---|---|---|---|
 | KreatorflowAI | n/d | $7,123 | +120.6% | +50.8% | 11 | 100 | https://trustmrr.com/startup/kreatorflowai |
-| ShopTok | n/d | $7,443 | +73.0% | +43.6% | 9 | 85 | https://trustmrr.com/startup/shoptok |
+| ShopTok | n/d | $7,788 | +72.8% | +41.0% | 10 | 83 | https://trustmrr.com/startup/shoptok |
 | Creathoon.com | n/d | $356 | +43.6% | +68.5% | 4 | 77 | https://trustmrr.com/startup/creathoon-com |
 | Confidential Startup | n/d | $7,255 | +82.8% | +25.4% | 8 | 76 | https://trustmrr.com/startup/confidential-startup-29 |
 | Vruum | n/d | $600 | +100.0% | +100.0% | 0 | 75 | https://trustmrr.com/startup/vruum |
 | Stealth Company | n/d | $504 | +12500.0% | +12500.0% | 0 | 75 | https://trustmrr.com/startup/stealth-company-41 |
 | Dreamini AI | n/d | $1,147 | +35.9% | +43.1% | 4 | 70 | https://trustmrr.com/startup/dreamini-ai |
+| Brandiz | n/d | $1,312 | +83.8% | +83.8% | 0 | 69 | https://trustmrr.com/startup/brandiz |
 | interviewcopilot.ai | n/d | $894 | +82.5% | +57.5% | 0 | 68 | https://trustmrr.com/startup/interviewcopilot-ai |
-| MausBot | n/d | $13,940 | +94.7% | +99.0% | 6 | 59 | https://trustmrr.com/startup/mausbot |
-| Brandiz | n/d | $1,312 | +83.8% | +25.1% | 1 | 57 | https://trustmrr.com/startup/brandiz |
+| MausBot | n/d | $14,046 | +90.8% | +90.8% | 7 | 58 | https://trustmrr.com/startup/mausbot |
+| Hidden Business | n/d | $4,165 | +37.0% | +79.5% | 1 | 56 | https://trustmrr.com/startup/redlift |
 | bytemail | n/d | $539 | +57.0% | +5.7% | 9 | 52 | https://trustmrr.com/startup/bytemail |
 | Reelfolio | n/d | $837 | +38.8% | +14.7% | 4 | 51 | https://trustmrr.com/startup/reelfolio |
-| BookWitch | n/d | $1,024 | +36.4% | +13.0% | 9 | 49 | https://trustmrr.com/startup/bookwitch |
 | Ritmo | n/d | $6,627 | +58.0% | -10.4% | 18 | 48 | https://trustmrr.com/startup/ritmoapp |
 | Anim8 | n/d | $1,281 | +41.9% | +42.4% | 0 | 46 | https://trustmrr.com/startup/ternary-studios |
 | ProjectHQ | n/d | $346 | +40.1% | +40.1% | 0 | 44 | https://trustmrr.com/startup/projecthq |
 | GotEmail | n/d | $280 | +122.2% | -34.9% | 0 | 40 | https://trustmrr.com/startup/gotemail |
-| Deepnia | n/d | $457 | +37.9% | -479.0% | 13 | 40 | https://trustmrr.com/startup/deepnia |
+| Deepnia | n/d | $465 | +37.0% | -257.1% | 14 | 40 | https://trustmrr.com/startup/deepnia |
 | HarperAI | real-estate | $2,620 | +9.6% | +71.2% | 0 | 39 | https://trustmrr.com/startup/harper |
 | Whappy, Inc. | n/d | $654 | +32.9% | +33.0% | 0 | 36 | https://trustmrr.com/startup/whappy-inc |
-| Tether Mobile | n/d | $2,540 | +26.5% | -41.0% | 21 | 36 | https://trustmrr.com/startup/tether-mobile |
-| TikMonitor | n/d | $1,903 | +20.8% | n/d | 8 | 33 | https://trustmrr.com/startup/tikmonitor |
+| Audn.AI | security | $39,256 | +38.8% | +43.3% | 2 | 35 | https://trustmrr.com/startup/audn-ai |
+| Tether Mobile | n/d | $2,670 | +26.1% | -40.4% | 22 | 35 | https://trustmrr.com/startup/tether-mobile |
+| BookWitch | n/d | $1,033 | +26.0% | -7.9% | 10 | 35 | https://trustmrr.com/startup/bookwitch |
+| TikMonitor | n/d | $1,952 | +19.2% | n/d | 9 | 33 | https://trustmrr.com/startup/tikmonitor |
 | Anonymous Startup | n/d | $460 | +19.0% | -9.9% | 4 | 33 | https://trustmrr.com/startup/startup-8d85cb3bc7b9 |
 | Skillry | n/d | $4,184 | +19.8% | -11.6% | 30 | 33 | https://trustmrr.com/startup/skillry |
-| AITube | n/d | $330 | +37.5% | +7.8% | 2 | 33 | https://trustmrr.com/startup/aitube |
-| AI Directories | n/d | $683 | +23.2% | +23.2% | 1 | 32 | https://trustmrr.com/startup/ai-directories |
 | soracai.com | n/d | $669 | +47.8% | n/d | 2 | 32 | https://trustmrr.com/startup/soracai-com |
 | Wordlize | n/d | $36,583 | +192.7% | -31.4% | 2 | 32 | https://trustmrr.com/startup/unnamed-company-43 |
-| Next Level Builders | n/d | $718 | -3.9% | +34.7% | 1 | 31 | https://trustmrr.com/startup/next-level-builders |
-| Hidden Business | n/d | $3,040 | +0.0% | +42.5% | 0 | 30 | https://trustmrr.com/startup/redlift |
 | Slidekick | n/d | $10 | +100.0% | +100.0% | 0 | 30 | https://trustmrr.com/startup/slidekick |
 | AIWA | n/d | $166 | +100.0% | +100.0% | 0 | 30 | https://trustmrr.com/startup/aiwa |
 | ChillScript: Content Ideas | n/d | $374 | +34.5% | +22.9% | 0 | 30 | https://trustmrr.com/startup/chillscript-content-ideas |
 | SitesGen | n/d | $38 | +100.0% | +100.0% | 0 | 30 | https://trustmrr.com/startup/sitesgen |
-| Task Pocket | n/d | $8 | +100.0% | +100.0% | 0 | 30 | https://trustmrr.com/startup/task-pocket |
 | ManifestAI Gratitude Journal | n/d | $24 | +233.1% | +302.0% | 0 | 30 | https://trustmrr.com/startup/manifestai-gratitude-journal |
 | Unnamed Company | n/d | $2,738 | -1.8% | +40.2% | 0 | 28 | https://trustmrr.com/startup/whitelabel-ai-assistants-builder-huge-opportunity-98-margin-250k |
-| Coralflavor | n/d | $4,144 | +8.0% | -9.9% | 4 | 28 | https://trustmrr.com/startup/coralflavor |
+| Coralflavor | n/d | $4,234 | +8.3% | -8.2% | 5 | 28 | https://trustmrr.com/startup/coralflavor |
 | Adgenius | n/d | $2,703 | +20.2% | -94.0% | 3 | 27 | https://trustmrr.com/startup/paddle-business-28 |
+| AI Directories | n/d | $683 | +23.2% | +23.2% | 0 | 26 | https://trustmrr.com/startup/ai-directories |
+| Confidential Startup | recruiting | $3,578 | +14.0% | +2.6% | 3 | 26 | https://trustmrr.com/startup/confidential-startup-71 |
 | Stealth Company | n/d | $1,143 | +7.3% | +6.2% | 3 | 26 | https://trustmrr.com/startup/stealth-company-80 |
+| Chessigma | games | $8,568 | +8.5% | +4.7% | 3 | 25 | https://trustmrr.com/startup/chessigma |
+| AMPLIFY TEAM LIMITED | n/d | $310 | +14.8% | +27.7% | 0 | 25 | https://trustmrr.com/startup/getamplifyteam |
+| Next Level Builders | n/d | $718 | -3.9% | +34.7% | 0 | 24 | https://trustmrr.com/startup/next-level-builders |
 | Stalkr | n/d | $319 | +22.2% | +22.2% | 0 | 24 | https://trustmrr.com/startup/stalkr |
 | Dosly․app | n/d | $17 | +65.2% | +65.2% | 0 | 24 | https://trustmrr.com/startup/dosly-app |
-| Audn.AI | security | $37,270 | +27.3% | +28.3% | 1 | 22 | https://trustmrr.com/startup/audn-ai |
 | Maverick Intelligence, Inc. | n/d | $7,084 | +21.4% | +19.7% | 0 | 22 | https://trustmrr.com/startup/maverick-intelligence-inc |
-| NinjaPoster | n/d | $1,344 | +3.4% | +11.3% | 2 | 22 | https://trustmrr.com/startup/ninjaposter |
-| Avium | n/d | $18,990 | +35.7% | +21.8% | 1 | 21 | https://trustmrr.com/startup/avium |
-| Welya, Inc. | n/d | $33,668 | +12.1% | +7.5% | 6 | 21 | https://trustmrr.com/startup/welya-inc |
+| kdpbook.io | n/d | $4,075 | +22.3% | -3.0% | 2 | 21 | https://trustmrr.com/startup/kdpbook |
 | Private Venture | n/d | $4,166 | -2.0% | +29.1% | 0 | 20 | https://trustmrr.com/startup/the-caribbean-s-ai |
-| Chessigma | games | $8,504 | +8.0% | +4.5% | 2 | 19 | https://trustmrr.com/startup/chessigma |
+| GodsView AI | n/d | $3,761 | +0.0% | +27.9% | 0 | 20 | https://trustmrr.com/startup/godsviewai |
+| AITube | n/d | $330 | +37.5% | +7.8% | 0 | 20 | https://trustmrr.com/startup/aitube |
+| Bazzly | n/d | $41,497 | +20.2% | -17.0% | 4 | 20 | https://trustmrr.com/startup/bazzly |
 | GETebook.ai | n/d | $8,115 | n/d | n/d | 3 | 19 | https://trustmrr.com/startup/getebook-ai |
-| Car Dealer Tracker | n/d | $1,378 | +15.1% | +0.2% | 2 | 19 | https://trustmrr.com/startup/car-dealer-tracker |
 | Talanoa | n/d | $321 | +3.9% | +6.4% | 2 | 19 | https://trustmrr.com/startup/talanoa |
-| Brawler | health-fitness | $26,299 | +9.0% | +4.1% | 4 | 19 | https://trustmrr.com/startup/brawler |
-| SoundBoost.ai (formerly Diktatorial) | entertainment | $32,260 | +8.5% | +3.6% | 9 | 19 | https://trustmrr.com/startup/soundboost-ai-formerly-diktatorial |
-| Confidential Startup | recruiting | $3,556 | +13.3% | +1.7% | 2 | 19 | https://trustmrr.com/startup/confidential-startup-71 |
-| GodsView AI | n/d | $3,761 | +0.0% | +27.1% | 0 | 19 | https://trustmrr.com/startup/godsviewai |
-| Lead Scorer | n/d | $1,643 | +21.6% | +12.8% | 0 | 18 | https://trustmrr.com/startup/lead-scorer |
+| Brawler | health-fitness | $26,748 | +9.5% | +3.5% | 5 | 19 | https://trustmrr.com/startup/brawler |
+| SoundBoost.ai (formerly Diktatorial) | entertainment | $32,948 | +9.6% | +3.8% | 10 | 19 | https://trustmrr.com/startup/soundboost-ai-formerly-diktatorial |
+| Avium | n/d | $18,990 | +35.7% | +21.8% | 0 | 18 | https://trustmrr.com/startup/avium |
+| ColorCraft | n/d | $2,164 | +13.7% | -7.0% | 2 | 18 | https://trustmrr.com/startup/colorcraft |
+| Lead Scorer | n/d | $1,639 | +21.6% | +13.1% | 0 | 18 | https://trustmrr.com/startup/lead-scorer |
 | seadanse | n/d | $523 | +43.9% | -43.3% | 0 | 18 | https://trustmrr.com/startup/seadanse |
 | CookieEditor | n/d | $10 | +40.9% | +41.2% | 0 | 18 | https://trustmrr.com/startup/cookieeditor |
-| Launch Llama Tools | n/d | $924 | +9.5% | +20.0% | 0 | 18 | https://trustmrr.com/startup/launch-llama-tools |
 | The Stealthiest of Ventures | n/d | $26,866 | +13.8% | -23.3% | 16 | 18 | https://trustmrr.com/startup/aleksandersivertsen |
-| AnyRouter | n/d | $226 | +11.4% | -12.0% | 2 | 17 | https://trustmrr.com/startup/anyrouter |
-| Stealth Company | n/d | $3,297 | +7.5% | +2.3% | 2 | 17 | https://trustmrr.com/startup/startup-8851513929e3 |
 | Get Youtube Transcript | n/d | $170 | +20.6% | +20.6% | 3 | 17 | https://trustmrr.com/startup/get-youtube-transcript |
 | Anonymous Startup | n/d | $11,904 | +5.1% | n/d | 8 | 16 | https://trustmrr.com/startup/anonymous-startup-30 |
-| Private Enterprise | n/d | $36,554 | +4.8% | -0.9% | 13 | 16 | https://trustmrr.com/startup/mobile-app-4 |
+| Private Enterprise | n/d | $36,744 | +4.6% | -1.0% | 14 | 16 | https://trustmrr.com/startup/mobile-app-4 |
 | Stealth Company | sales | $19,905 | +14.2% | +11.1% | 2 | 16 | https://trustmrr.com/startup/ai-dm-setter |
 | Verbi | education | $23,920 | +5.6% | n/d | 9 | 16 | https://trustmrr.com/startup/verbi |
 | Transcribe.so | n/d | $83 | +80.4% | +10.1% | 0 | 16 | https://trustmrr.com/startup/transcribe-so |
-| Bazzly | n/d | $40,403 | +18.7% | -23.8% | 3 | 16 | https://trustmrr.com/startup/bazzly |
-| Pushouse | customer-support | $29,567 | +7.4% | +5.4% | 3 | 15 | https://trustmrr.com/startup/pushouse |
-| Wizlogo | n/d | $2,988 | +2.3% | +2.3% | 2 | 15 | https://trustmrr.com/startup/wizlogo |
+| Indexsy | saas | $37,954 | +5.0% | +31.7% | 0 | 15 | https://trustmrr.com/startup/indexsy-consulting-ltd |
 | Private Enterprise | n/d | $27,802 | n/d | n/d | 36 | 15 | https://trustmrr.com/startup/startup-f3f1223a4583 |
 | Lurq By PeopleFinder | n/d | $4,072 | +13.5% | +4.6% | 1 | 15 | https://trustmrr.com/startup/peoplefinder |
 | DSA Trainer | n/d | $106 | +6.0% | +85.3% | 0 | 15 | https://trustmrr.com/startup/dsa-trainer |
-| uCV | recruiting | $126 | +48.4% | +15.3% | 1 | 15 | https://trustmrr.com/startup/ucv |
 | ADELANTE LTD | customer-support | $17,431 | +14.3% | +25.4% | 0 | 14 | https://trustmrr.com/startup/adelante-ltd |
-| Indexsy | saas | $37,954 | +3.0% | +30.5% | 0 | 14 | https://trustmrr.com/startup/indexsy-consulting-ltd |
-| TranslateMom | n/d | $3,943 | +2.5% | -0.1% | 2 | 14 | https://trustmrr.com/startup/translatemom |
 | React Bits Pro | developer-tools | $888 | +3.4% | +0.9% | 2 | 14 | https://trustmrr.com/startup/react-bits-pro |
 | Lumeo | n/d | $12 | -1.3% | +48.3% | 0 | 14 | https://trustmrr.com/startup/lumeo |
 | Peekuin - Followings Tracker | n/d | $911 | +3.9% | -16.5% | 2 | 14 | https://trustmrr.com/startup/peekuin-followings-tracker |
 | ChamsDel Online LLC | n/d | $34 | +0.0% | +67.3% | 0 | 14 | https://trustmrr.com/startup/chamsdel-online-llc |
-| Conductor | developer-tools | $49,432 | +5.2% | +1.9% | 3 | 13 | https://trustmrr.com/startup/conductor |
+| Stealth Company | n/d | $6,140 | +2.8% | -2.5% | 2 | 14 | https://trustmrr.com/startup/innovative-study-platform |
+| mobile app | n/d | $16,449 | +5.6% | +3.5% | 3 | 14 | https://trustmrr.com/startup/mobile-app-6 |
 | Unnamed Company | n/d | $30,991 | +2.4% | +3.7% | 3 | 13 | https://trustmrr.com/startup/mobile-app-5 |
 | Stealth Company | n/d | $31,809 | +3.3% | +3.2% | 3 | 13 | https://trustmrr.com/startup/popular-link-in-bio |
 | Stylegenai | n/d | $1,400 | +1.2% | -3.3% | 2 | 13 | https://trustmrr.com/startup/stylegenai |
-| yew | ai | $2,743 | +5.0% | +6.8% | 1 | 13 | https://trustmrr.com/startup/yew |
 | ChurchCalls.ai | n/d | $60 | +0.0% | +45.5% | 0 | 13 | https://trustmrr.com/startup/churchcalls-ai |
 | Sferica Trading Automation LLC | crypto-web3 | $390 | -7.8% | +18.9% | 0 | 13 | https://trustmrr.com/startup/sferica-trading-automation-llc |
 | DeadBolt | n/d | $108 | +25.4% | +24.2% | 1 | 13 | https://trustmrr.com/startup/deadbolt |
 | TrendStory | n/d | $87,681 | +26.3% | +22.1% | 11 | 13 | https://trustmrr.com/startup/trendstory |
 | CaptureFlow | n/d | $4,182 | n/d | n/d | 2 | 12 | https://trustmrr.com/startup/captureflow |
-| ColorCraft | n/d | $2,123 | +15.2% | -3.4% | 1 | 12 | https://trustmrr.com/startup/colorcraft |
 | RapidNative | n/d | $5,392 | n/d | n/d | 2 | 12 | https://trustmrr.com/startup/shaper-studio-inc |
 | TrustMRR | marketplace | $11,992 | -11.1% | +28.9% | 0 | 12 | https://trustmrr.com/startup/trustmrr |
-| AMPLIFY TEAM LIMITED | n/d | $310 | +6.9% | +13.3% | 0 | 12 | https://trustmrr.com/startup/getamplifyteam |
 | Private Enterprise | n/d | $45 | +28.4% | +28.4% | 0 | 12 | https://trustmrr.com/startup/tonecraftr |
 | ScoutHub | n/d | $1,553 | -70.7% | -3015.3% | 2 | 12 | https://trustmrr.com/startup/scouthub |
 | TraderSpy | n/d | $376 | n/d | n/d | 2 | 12 | https://trustmrr.com/startup/traderspy |
-| Aarivi | n/d | $1,967 | +11.3% | +2.3% | 1 | 12 | https://trustmrr.com/startup/aarivi |
-| kdpbook.io | n/d | $3,925 | +15.2% | -21.9% | 1 | 12 | https://trustmrr.com/startup/kdpbook |
-| Stealth Company | n/d | $297 | -6.2% | -202.4% | 2 | 12 | https://trustmrr.com/startup/stealth-company-85 |
-| ColdSire | marketing | $14,708 | +6.1% | +5.9% | 2 | 11 | https://trustmrr.com/startup/coldsire |
+| freehire | n/d | $412 | +28.8% | -12.8% | 0 | 12 | https://trustmrr.com/startup/freehire |
+| uCV | recruiting | $126 | +48.4% | +15.6% | 0 | 12 | https://trustmrr.com/startup/ucv |
+| Rank Prompt | n/d | $48,332 | +8.0% | +2.6% | 2 | 11 | https://trustmrr.com/startup/rank-prompt |
+| WaLead AI | customer-support | $26,734 | +6.6% | +5.4% | 2 | 11 | https://trustmrr.com/startup/walead-ai |
+| Ring Widget - Oura Ring widgets | n/d | $279 | +5.9% | +2.8% | 1 | 11 | https://trustmrr.com/startup/ring-widget-widgets-for-oura-ring |
 | AbMaxx | health-fitness | $20,165 | +5.8% | +6.0% | 2 | 11 | https://trustmrr.com/startup/abmaxx |
 | Mock Chats | n/d | $208 | +11.2% | -3.5% | 1 | 11 | https://trustmrr.com/startup/mock-chats |
-| mobile app | n/d | $16,274 | +5.4% | +4.4% | 2 | 11 | https://trustmrr.com/startup/mobile-app-6 |
-| freehire | n/d | $412 | +26.8% | -20.2% | 0 | 11 | https://trustmrr.com/startup/freehire |
-| Kolbo.AI | design-tools | $47,017 | +14.1% | +9.3% | 1 | 11 | https://trustmrr.com/startup/kolbo-ai |
+| Stealth Venture | n/d | $2,840 | +3.0% | +5.6% | 1 | 11 | https://trustmrr.com/startup/startup-14ede378a26e |
 | VERM LAB | n/d | $98 | +50.4% | n/d | 1 | 11 | https://trustmrr.com/startup/verm-lab |
-| Practiceme | n/d | $3,316 | +5.2% | +2.9% | 1 | 10 | https://trustmrr.com/startup/practiceme |
-| uhoh.com | customer-support | $46,712 | +12.4% | +17.0% | 0 | 10 | https://trustmrr.com/startup/uhoh-com |
 | Veline AI | n/d | $43 | +0.0% | +37.5% | 0 | 10 | https://trustmrr.com/startup/fairy-ltd |
 | CitoHR | n/d | $90 | +0.8% | +35.5% | 0 | 10 | https://trustmrr.com/startup/citohr |
-| Domer AI | n/d | $108 | +22.6% | +22.6% | 0 | 10 | https://trustmrr.com/startup/domer-ai |
-| Advise.so | ai | $21,368 | +2.4% | +1.6% | 2 | 9 | https://trustmrr.com/startup/advise-so |
+| Extypis Writing App | n/d | $67 | +8.3% | +22.5% | 1 | 10 | https://trustmrr.com/startup/extypis-writing-app |
+| Stealth Venture | n/d | $49,129 | +4.2% | +1.3% | 2 | 9 | https://trustmrr.com/startup/faceless-so |
 | Anonymous Startup | n/d | $12,832 | +6.8% | -1.1% | 2 | 9 | https://trustmrr.com/startup/anonymous-startup-40 |
 | SnaptheKnot | n/d | $236 | +7.2% | +8.1% | 0 | 9 | https://trustmrr.com/startup/snaptheknot |
+| NinjaPoster | n/d | $1,344 | +3.4% | +11.3% | 0 | 9 | https://trustmrr.com/startup/ninjaposter |
+| AE-intelligence | productivity | $29,191 | -0.5% | -3.2% | 2 | 8 | https://trustmrr.com/startup/ae-intelligence |
 | Francopass | n/d | $1,956 | +5.4% | -9.0% | 1 | 8 | https://trustmrr.com/startup/francopass |
 | MyFeedIn | n/d | $1,286 | +2.2% | +0.9% | 1 | 8 | https://trustmrr.com/startup/myfeedin |
-| Stack Influence | marketing | $28,342 | +2.2% | -7.2% | 2 | 8 | https://trustmrr.com/startup/stack-influence |
+| Taja AI | ai | $13,500 | -0.6% | +0.3% | 2 | 8 | https://trustmrr.com/startup/taja-ai |
+| Wizlogo | n/d | $2,976 | +3.9% | +9.2% | 0 | 8 | https://trustmrr.com/startup/wizlogo |
+| Car Dealer Tracker | n/d | $1,361 | +15.3% | +2.0% | 0 | 8 | https://trustmrr.com/startup/car-dealer-tracker |
 | Envmanager | n/d | $60 | +17.6% | +17.6% | 0 | 8 | https://trustmrr.com/startup/envmanager |
-| Confidential Startup | ai | $175,748 | +11.8% | +10.9% | 3 | 8 | https://trustmrr.com/startup/online-edtech |
+| LinkPost | n/d | $4,877 | +1.7% | +2.1% | 1 | 8 | https://trustmrr.com/startup/linkpost |
+| isMalicious | n/d | $1,658 | -4.2% | +2.1% | 1 | 8 | https://trustmrr.com/startup/ismalicious |
 | Sbl | sales | $10,461 | -63.4% | -57.6% | 2 | 8 | https://trustmrr.com/startup/sbl |
 | Babelbot | n/d | $719 | +11.5% | +5.4% | 0 | 8 | https://trustmrr.com/startup/babelbot |
 | Databuddy Analytics, Inc. | n/d | $3,115 | +9.1% | +6.9% | 0 | 8 | https://trustmrr.com/startup/databuddy-analytics-inc |
@@ -268,96 +260,91 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | CossyVita | n/d | $33 | +17.3% | -3.7% | 2 | 8 | https://trustmrr.com/startup/cossyvita |
 | Agent Media | n/d | $2,529 | +18.7% | +1.3% | 0 | 8 | https://trustmrr.com/startup/veloris-llc |
 | Crawlly AI | n/d | $180 | +0.0% | +24.4% | 0 | 7 | https://trustmrr.com/startup/crawlly-ai |
-| Postiz | ai | $413,112 | +10.0% | -2.3% | 50 | 7 | https://trustmrr.com/startup/postiz |
-| VideoDubber.ai | n/d | $530 | +3.7% | +7.3% | 0 | 7 | https://trustmrr.com/startup/videodubber-ai |
-| GetMentioned | n/d | $867 | -1.0% | +9.4% | 0 | 7 | https://trustmrr.com/startup/getmentioned |
+| Postiz | ai | $417,774 | +9.4% | -2.3% | 51 | 7 | https://trustmrr.com/startup/postiz |
+| GetMentioned | n/d | $864 | -1.1% | +9.5% | 0 | 7 | https://trustmrr.com/startup/getmentioned |
 | Unnamed Company | n/d | $2,231 | +6.2% | +7.0% | 0 | 7 | https://trustmrr.com/startup/photta |
-| TruckerDB | n/d | $1,729 | +0.1% | +10.4% | 0 | 7 | https://trustmrr.com/startup/truckerdb |
 | SimpleTI | n/d | $65 | +10.7% | +20.0% | 0 | 7 | https://trustmrr.com/startup/simpleti |
 | Kymos | n/d | $32 | +19.9% | +12.4% | 0 | 7 | https://trustmrr.com/startup/kymos |
 | Truyện song ngữ Anh Việt, có audio để nghe | n/d | $9 | +11.8% | +17.8% | 0 | 7 | https://trustmrr.com/startup/truy-n-song-ng-anh-vi-t-c-audio-nghe |
-| Stealth Company | n/d | $6,094 | +3.1% | -2.4% | 1 | 7 | https://trustmrr.com/startup/innovative-study-platform |
 | FluoTest | n/d | $76 | +16.1% | +16.0% | 0 | 7 | https://trustmrr.com/startup/fluotest |
 | Anonymous Startup | n/d | $4,938 | +17.7% | -9.3% | 0 | 7 | https://trustmrr.com/startup/aisaaswebsitebygefei |
 | Anonymous Startup | n/d | $38,783 | -4.7% | +14.6% | 0 | 6 | https://trustmrr.com/startup/b2c-makeup-app |
 | CueTheScene | n/d | $1,981 | n/d | n/d | 1 | 6 | https://trustmrr.com/startup/cuethescene |
-| dayonelead | n/d | $941 | -4.9% | -4.9% | 1 | 6 | https://trustmrr.com/startup/dayonelead |
 | Easy App Reports by Beyond Analytics | n/d | $2,925 | +0.0% | +7.9% | 0 | 6 | https://trustmrr.com/startup/easy-app-reports-by-beyond-analytics |
-| Hidden Business | n/d | $8,265 | -12.6% | -32.1% | 1 | 6 | https://trustmrr.com/startup/hidden-business-36 |
-| HSKLord | n/d | $270 | -0.2% | -7.6% | 1 | 6 | https://trustmrr.com/startup/hsklord |
+| own.page | n/d | $462 | +2.4% | +7.7% | 0 | 6 | https://trustmrr.com/startup/own-page |
+| Practiceme | n/d | $3,326 | +7.0% | +4.7% | 0 | 6 | https://trustmrr.com/startup/practiceme |
 | Stealth Company | n/d | $41,430 | +7.6% | +10.6% | 0 | 6 | https://trustmrr.com/startup/stealth-company-10 |
 | Stealth Company | utilities | $4,839 | +0.0% | -1.2% | 1 | 6 | https://trustmrr.com/startup/stealth-company-2 |
-| SwiftSole | ecommerce | $4,292 | -0.9% | -1.0% | 1 | 6 | https://trustmrr.com/startup/swiftsole-development-llc-zafar-habib-mbr |
+| uhoh.com | customer-support | $46,719 | +8.5% | +9.8% | 0 | 6 | https://trustmrr.com/startup/uhoh-com |
+| Voxdub | n/d | $1,314 | -5.2% | -6.2% | 1 | 6 | https://trustmrr.com/startup/voxdub |
 | BreadSync | n/d | $4,164 | +0.0% | -13.4% | 1 | 6 | https://trustmrr.com/startup/breadsync |
+| Chess It Up | n/d | $315 | -19.0% | -41.8% | 1 | 6 | https://trustmrr.com/startup/chess-it-up |
 | Dooken | n/d | $2,295 | -3.6% | -2.7% | 1 | 6 | https://trustmrr.com/startup/dooken |
+| Private Venture | games | $1,490 | -10.0% | -2.5% | 1 | 6 | https://trustmrr.com/startup/waifu |
 | XreplyAI | n/d | $421 | +0.0% | +8.7% | 0 | 6 | https://trustmrr.com/startup/xreplyai-1 |
 | InterviewOra : AI interview Copilot | n/d | $340 | -5.3% | -10.9% | 1 | 6 | https://trustmrr.com/startup/interviewora |
-| Orbitagents | n/d | $3,556 | -11.2% | -73.2% | 1 | 6 | https://trustmrr.com/startup/orbitagents |
 | Web Maker | n/d | $14 | +0.0% | +21.6% | 0 | 6 | https://trustmrr.com/startup/web-maker |
 | Magnetic Funnels | sales | $8,609 | -0.8% | +8.0% | 0 | 6 | https://trustmrr.com/startup/magnetic-funnels |
 | Sopravo | n/d | $13 | -0.3% | +20.1% | 0 | 6 | https://trustmrr.com/startup/sopravo |
-| traxy.ai | sales | $54,574 | +5.0% | +6.4% | 3 | 6 | https://trustmrr.com/startup/traxy-ai |
 | NoteWall-Never Forget Things | n/d | $161 | +17.7% | +12.1% | 0 | 6 | https://trustmrr.com/startup/notewall-never-forget-things |
+| Domer AI | n/d | $108 | +22.6% | +9.9% | 0 | 6 | https://trustmrr.com/startup/domer-ai |
 | Anonymous Startup | travel | $22,729 | +0.3% | +4.4% | 1 | 6 | https://trustmrr.com/startup/flight-award |
-| June | n/d | $1,007 | -1.0% | -1.0% | 1 | 6 | https://trustmrr.com/startup/june |
+| Kolbo.AI | design-tools | $46,954 | +14.0% | +7.1% | 0 | 6 | https://trustmrr.com/startup/kolbo-ai |
 | Amazon Reviews Extractor & AI Summary - Chrome Extension | n/d | $107 | +33.6% | -17.2% | 0 | 5 | https://trustmrr.com/startup/amazon-reviews-extractor-ai-summary-chrome-extension |
 | Catch a Monster Hub | n/d | $34 | -14.3% | +16.8% | 0 | 5 | https://trustmrr.com/startup/catch-a-monster-hub |
 | Catering Funnels | n/d | $4,386 | +11.6% | -11.8% | 0 | 5 | https://trustmrr.com/startup/catering-funnels |
-| Stealth Venture | n/d | $48,637 | +3.2% | +0.6% | 1 | 5 | https://trustmrr.com/startup/faceless-so |
+| ColdSire | marketing | $14,752 | +6.4% | +7.3% | 0 | 5 | https://trustmrr.com/startup/coldsire |
 | ReddGrow AI | n/d | $6,868 | +5.2% | +4.4% | 0 | 5 | https://trustmrr.com/startup/reddgrow-ai |
 | Anonymous Startup | education | $55,977 | +6.2% | -0.9% | 3 | 5 | https://trustmrr.com/startup/shadow-co |
 | Unnamed Company | n/d | $44,198 | +1.5% | +10.3% | 0 | 5 | https://trustmrr.com/startup/unnamed-company-21 |
-| WaLead AI | customer-support | $25,674 | +2.0% | +1.0% | 1 | 5 | https://trustmrr.com/startup/walead-ai |
+| Upscale System LLC | productivity | $123,962 | +3.4% | -2.3% | 3 | 5 | https://trustmrr.com/startup/upscale-system-llc |
+| yew | ai | $2,743 | +4.0% | +5.2% | 0 | 5 | https://trustmrr.com/startup/yew |
 | Evrika Study | n/d | $146 | n/d | n/d | 2 | 5 | https://trustmrr.com/startup/evrika-study |
 | Mentor Folio | n/d | $61 | n/d | n/d | 2 | 5 | https://trustmrr.com/startup/mentor-folio |
+| TruckerDB | n/d | $1,680 | -2.8% | +7.6% | 0 | 5 | https://trustmrr.com/startup/truckerdb |
 | UPCgen.com | n/d | $94 | +10.6% | +10.6% | 0 | 5 | https://trustmrr.com/startup/upcgen-com |
 | Nonyxa | n/d | $219 | +12.9% | -5.2% | 0 | 5 | https://trustmrr.com/startup/nonyxa |
-| SoldComps | real-estate | $26,336 | +4.7% | -0.0% | 1 | 5 | https://trustmrr.com/startup/soldcomps |
 | Gymnastics Tools 🤸🏻‍♀️ | n/d | $150 | +15.4% | n/d | 1 | 5 | https://trustmrr.com/startup/gymnastics-tools |
 | Orion AI Solutions Inc. | sales | $26,733 | -12.1% | +2.5% | 1 | 5 | https://trustmrr.com/startup/orion-ai-solutions-inc |
+| Stealth Company | mobile-apps | $94,726 | +3.9% | -0.4% | 3 | 5 | https://trustmrr.com/startup/stealth-company-53 |
 | WP CRITIQUE | customer-support | $251 | +4.5% | +4.8% | 0 | 5 | https://trustmrr.com/startup/wp-critique |
-| TravelMaxx | n/d | $871 | -1.2% | +7.7% | 0 | 5 | https://trustmrr.com/startup/travelmaxx |
-| AE-intelligence | productivity | $29,011 | -0.6% | -3.3% | 1 | 4 | https://trustmrr.com/startup/ae-intelligence |
-| HanziStroke Pro — Lifetime Access | n/d | $90 | +2.3% | +11.9% | 0 | 4 | https://trustmrr.com/startup/hanzistroke-pro-lifetime-access |
-| Khosmos | fintech | $22,563 | -0.4% | -2.0% | 1 | 4 | https://trustmrr.com/startup/khosmos |
+| GRAIL Collectibles | n/d | $103 | +19.2% | +8.6% | 0 | 5 | https://trustmrr.com/startup/grail-collectibles-llc |
 | Loyeo | n/d | $216 | +9.8% | -29.2% | 0 | 4 | https://trustmrr.com/startup/loyeo |
-| Rank Prompt | n/d | $45,930 | +2.7% | -3.4% | 1 | 4 | https://trustmrr.com/startup/rank-prompt |
-| Taja AI | ai | $13,380 | -1.5% | -0.8% | 1 | 4 | https://trustmrr.com/startup/taja-ai |
-| The World Now | n/d | $33 | +0.0% | +5.7% | 1 | 4 | https://trustmrr.com/startup/the-world-now |
+| Plutio (Super Work AI) | ai | $20,161 | +0.3% | -0.6% | 1 | 4 | https://trustmrr.com/startup/plutio-super-work-ai |
 | Stealth Venture | n/d | $40,094 | +0.1% | +9.9% | 0 | 4 | https://trustmrr.com/startup/thumbnailcreator-com |
-| Upscale System LLC | productivity | $123,229 | +5.2% | +1.8% | 2 | 4 | https://trustmrr.com/startup/upscale-system-llc |
 | Private Enterprise | n/d | $13 | +8.2% | +8.8% | 0 | 4 | https://trustmrr.com/startup/independent-games-company |
 | Dawnce | n/d | $394 | +9.3% | -7.9% | 0 | 4 | https://trustmrr.com/startup/dawnce |
 | Signupkit | n/d | $233 | +9.4% | -29.8% | 0 | 4 | https://trustmrr.com/startup/signupkit |
 | SmartCondo | iot-hardware | $708 | +8.9% | -2.9% | 0 | 4 | https://trustmrr.com/startup/smartcondo |
-| Hypit-AI | n/d | $18,539 | +2.3% | -8.9% | 1 | 4 | https://trustmrr.com/startup/hypit-ai |
+| PeptIQ | health-fitness | $14,783 | -0.8% | -3.7% | 1 | 4 | https://trustmrr.com/startup/peptiq |
+| Dilutracker | n/d | $1,438 | -1.3% | +6.2% | 0 | 4 | https://trustmrr.com/startup/dilutracker |
 | reportmaker.ai | n/d | $30 | -14.7% | +15.3% | 0 | 4 | https://trustmrr.com/startup/reportmaker-ai |
-| Ramen Club | education | $13,505 | -2.8% | +0.2% | 1 | 4 | https://trustmrr.com/startup/ramen-club |
-| Private Venture | marketing | $34,477 | +2.2% | -2.7% | 1 | 4 | https://trustmrr.com/startup/startup-532037cbd4f0 |
-| AEO Engine | ai | $191,210 | +0.6% | -5.9% | 2 | 3 | https://trustmrr.com/startup/aeo-engine |
-| Flowpost | n/d | $367 | -1.1% | +4.1% | 0 | 3 | https://trustmrr.com/startup/flowpost |
-| PHOTO AI STUDIO | design-tools | $3,746 | -1.7% | +3.9% | 0 | 3 | https://trustmrr.com/startup/photo-ai-studio |
-| Promptwise | n/d | $68,569 | +2.3% | +0.3% | 2 | 3 | https://trustmrr.com/startup/promptwise |
-| Quran Unlock | n/d | $554 | -5.6% | +4.2% | 0 | 3 | https://trustmrr.com/startup/quran-unlock |
-| Steps: Workout & Pedometer | n/d | $550 | +1.1% | +3.4% | 0 | 3 | https://trustmrr.com/startup/steps-workout-pedometer |
+| Welya, Inc. | n/d | $33,479 | +10.2% | +3.9% | 0 | 4 | https://trustmrr.com/startup/welya-inc |
+| Private Enterprise | n/d | $13,208 | +1.7% | -8.1% | 1 | 4 | https://trustmrr.com/startup/private-enterprise-64 |
+| Stealth Company | n/d | $25,648 | -2.5% | -11.2% | 1 | 4 | https://trustmrr.com/startup/stealth-company-16 |
+| Flowpost | n/d | $366 | -1.0% | +4.4% | 0 | 3 | https://trustmrr.com/startup/flowpost |
+| HanziStroke Pro — Lifetime Access | n/d | $90 | +2.3% | +10.0% | 0 | 3 | https://trustmrr.com/startup/hanzistroke-pro-lifetime-access |
+| AnyRouter | n/d | $226 | +8.6% | -18.0% | 0 | 3 | https://trustmrr.com/startup/anyrouter |
 | MedPilot | health-fitness | $288 | +0.0% | +4.6% | 0 | 3 | https://trustmrr.com/startup/medpilot |
 | Finanças AI | n/d | $21 | -0.2% | +12.1% | 0 | 3 | https://trustmrr.com/startup/finan-as-ai |
-| Stealth Company | mobile-apps | $93,617 | +2.8% | -1.8% | 2 | 3 | https://trustmrr.com/startup/stealth-company-53 |
+| Boothie: AI Photo Editor | n/d | $53,546 | -2.1% | -5.0% | 2 | 3 | https://trustmrr.com/startup/boothie |
 | Linkie | n/d | $353 | +8.3% | -1.2% | 0 | 3 | https://trustmrr.com/startup/linkie |
 | Embers | n/d | $692 | +7.7% | -37.0% | 0 | 3 | https://trustmrr.com/startup/embers |
-| Gomotion AI | n/d | $75,924 | +3.7% | -4.1% | 2 | 3 | https://trustmrr.com/startup/iker |
-| GRAIL Collectibles | n/d | $103 | +19.2% | -4.6% | 0 | 3 | https://trustmrr.com/startup/grail-collectibles-llc |
-| 1Lookup | saas | $252,202 | -0.9% | +4.9% | 1 | 2 | https://trustmrr.com/startup/1lookup |
+| TravelMaxx | n/d | $836 | -5.2% | +3.8% | 0 | 3 | https://trustmrr.com/startup/travelmaxx |
+| Advise.so | ai | $21,447 | +2.8% | +2.8% | 0 | 2 | https://trustmrr.com/startup/advise-so |
 | BuildOnDomains | n/d | $91 | +0.0% | +8.1% | 0 | 2 | https://trustmrr.com/startup/buildondomains |
 | InstaGroups | n/d | $37 | -19.8% | -1.7% | 1 | 2 | https://trustmrr.com/startup/instagroups |
 | Legendsverse | n/d | $517 | +2.3% | +1.0% | 0 | 2 | https://trustmrr.com/startup/legendsverse |
 | myChef | n/d | $1 | n/d | n/d | 1 | 2 | https://trustmrr.com/startup/mychef |
 | Neo-hypotheque | n/d | $95 | n/d | n/d | 1 | 2 | https://trustmrr.com/startup/neo-hypotheque |
 | Notionlytics | n/d | $36,611 | +3.4% | +3.4% | 0 | 2 | https://trustmrr.com/startup/notionlytics |
-| OpenTweet | n/d | $4,640 | +4.6% | -1.9% | 0 | 2 | https://trustmrr.com/startup/opentweet |
-| Pluma | n/d | $1,279 | -3.0% | +2.3% | 0 | 2 | https://trustmrr.com/startup/pluma |
+| OpenTweet | n/d | $4,642 | +4.7% | +0.8% | 0 | 2 | https://trustmrr.com/startup/opentweet |
+| PHOTO AI STUDIO | design-tools | $3,692 | -2.2% | +2.5% | 0 | 2 | https://trustmrr.com/startup/photo-ai-studio |
+| Pushouse | customer-support | $29,675 | +5.7% | +0.7% | 0 | 2 | https://trustmrr.com/startup/pushouse |
+| Quran Unlock | n/d | $551 | -6.1% | +3.4% | 0 | 2 | https://trustmrr.com/startup/quran-unlock |
 | SEO STACK | analytics | $22,492 | +1.1% | +3.4% | 0 | 2 | https://trustmrr.com/startup/seo-stack |
-| Unsection | n/d | $10 | -98.3% | -41.7% | 1 | 2 | https://trustmrr.com/startup/unsection |
+| Steps: Workout & Pedometer | n/d | $550 | +1.0% | +1.7% | 0 | 2 | https://trustmrr.com/startup/steps-workout-pedometer |
+| The World Now | n/d | $33 | +0.0% | +5.7% | 0 | 2 | https://trustmrr.com/startup/the-world-now |
 | WidGeek | n/d | $162 | -3.7% | -4.3% | 1 | 2 | https://trustmrr.com/startup/widgeek |
 | ZEMITH.COM | n/d | $2,335 | +2.0% | +1.1% | 0 | 2 | https://trustmrr.com/startup/zemith-com |
 | Insight Social | n/d | $58 | n/d | n/d | 1 | 2 | https://trustmrr.com/startup/insight-social |
@@ -368,60 +355,62 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Log Anything | n/d | $50 | n/d | n/d | 1 | 2 | https://trustmrr.com/startup/log-anything |
 | unfair.so | social-media | $32,570 | +2.3% | +3.2% | 0 | 2 | https://trustmrr.com/startup/unfair |
 | Zemly | n/d | $10 | n/d | n/d | 1 | 2 | https://trustmrr.com/startup/zemly |
-| CreativeClaw | design-tools | $14,720 | +6.4% | -12.0% | 0 | 2 | https://trustmrr.com/startup/creativeclaw |
+| Confidential Startup | ai | $174,411 | +9.9% | +7.1% | 0 | 2 | https://trustmrr.com/startup/online-edtech |
 | Hidden Business | n/d | $29,600 | -2.5% | +5.4% | 0 | 2 | https://trustmrr.com/startup/hidden-business-33 |
-| Boothie: AI Photo Editor | n/d | $53,031 | -2.2% | -3.7% | 1 | 2 | https://trustmrr.com/startup/boothie |
-| Dilutracker | n/d | $1,438 | -1.3% | +3.2% | 0 | 2 | https://trustmrr.com/startup/dilutracker |
+| Tradely | n/d | $43 | n/d | n/d | 1 | 2 | https://trustmrr.com/startup/tradely |
+| Stealth Company | n/d | $3,235 | +5.0% | +0.4% | 0 | 2 | https://trustmrr.com/startup/startup-8851513929e3 |
 | Reoogle | n/d | $95 | n/d | n/d | 1 | 2 | https://trustmrr.com/startup/reoogle |
-| Extypis Writing App | n/d | $57 | -7.7% | +6.3% | 0 | 2 | https://trustmrr.com/startup/extypis-writing-app |
+| GPS Map Camera – Geotag Photos | n/d | $155 | -0.4% | -4.0% | 1 | 2 | https://trustmrr.com/startup/gps-map-camera |
+| Ramen Club | education | $13,218 | -2.2% | +4.0% | 0 | 2 | https://trustmrr.com/startup/ramen-club |
+| Aarivi | n/d | $1,861 | +4.1% | -3.7% | 0 | 2 | https://trustmrr.com/startup/aarivi |
+| 1Lookup | saas | $251,964 | -0.5% | +5.8% | 0 | 1 | https://trustmrr.com/startup/1lookup |
 | Hidden Business | ai | $27,940 | -0.1% | +2.7% | 0 | 1 | https://trustmrr.com/startup/ai-interview-copilot |
-| ATELIER NUAGE | ecommerce | $12,294 | -0.0% | +2.4% | 0 | 1 | https://trustmrr.com/startup/atelier-nuage |
 | Atlas | productivity | $25,722 | -0.1% | +1.3% | 0 | 1 | https://trustmrr.com/startup/atlas |
-| avocadosai.ch | n/d | $124 | -1.3% | +3.1% | 0 | 1 | https://trustmrr.com/startup/avocadosai-ch |
+| avocadosai.ch | n/d | $124 | -1.4% | +3.3% | 0 | 1 | https://trustmrr.com/startup/avocadosai-ch |
 | Bustem, Inc | ecommerce | $429,516 | +5.6% | +3.0% | 0 | 1 | https://trustmrr.com/startup/bustem-inc |
 | Catalister | n/d | $4,493 | +1.4% | n/d | 0 | 1 | https://trustmrr.com/startup/catalister |
-| ChatSEO | n/d | $35,721 | +2.5% | -0.7% | 0 | 1 | https://trustmrr.com/startup/chatseo |
+| Comp AI | ai | $17,383 | +2.9% | -12.7% | 0 | 1 | https://trustmrr.com/startup/comp-ai |
+| Conductor | developer-tools | $49,037 | +3.8% | +0.7% | 0 | 1 | https://trustmrr.com/startup/conductor |
 | Evergreen Support, LLC | customer-support | $25,500 | +0.0% | +2.3% | 0 | 1 | https://trustmrr.com/startup/evergreen-support-llc |
-| IloveMP4 | n/d | $165 | +0.0% | +2.0% | 0 | 1 | https://trustmrr.com/startup/ilovemp4 |
+| IloveMP4 | n/d | $164 | +0.0% | +2.1% | 0 | 1 | https://trustmrr.com/startup/ilovemp4 |
 | Private Enterprise | n/d | $1,281 | +1.1% | +1.0% | 0 | 1 | https://trustmrr.com/startup/private-enterprise-31 |
-| Venue visitor patterns worldwide - API platform | travel | $10,288 | +4.3% | -0.8% | 0 | 1 | https://trustmrr.com/startup/private-location-intelligence-api-platform |
-| Project A | entertainment | $59,748 | -0.1% | +5.7% | 0 | 1 | https://trustmrr.com/startup/project-a |
+| Venue visitor patterns worldwide - API platform | travel | $10,247 | +3.2% | -1.6% | 0 | 1 | https://trustmrr.com/startup/private-location-intelligence-api-platform |
+| Project A | entertainment | $60,035 | +0.2% | +6.5% | 0 | 1 | https://trustmrr.com/startup/project-a |
 | SetSmart | productivity | $22,365 | +2.2% | -13.7% | 0 | 1 | https://trustmrr.com/startup/setsmart |
 | Hidden Business | n/d | $44,913 | +1.1% | +1.2% | 0 | 1 | https://trustmrr.com/startup/top-secret |
+| TranslateMom | n/d | $3,917 | +2.1% | +0.2% | 0 | 1 | https://trustmrr.com/startup/translatemom |
 | Unnamed Company | n/d | $350,548 | -0.5% | +4.9% | 0 | 1 | https://trustmrr.com/startup/unnamed-company |
 | Writingmate.ai | n/d | $5,625 | -0.4% | +1.6% | 0 | 1 | https://trustmrr.com/startup/writingmate-ai |
 | Your Love Page | n/d | $2,043 | +1.7% | -10.9% | 0 | 1 | https://trustmrr.com/startup/your-love-page |
-| Apiframe | developer-tools | $34,558 | -0.7% | +2.7% | 0 | 1 | https://trustmrr.com/startup/apiframe |
 | Divvy | n/d | $35 | +7.7% | +0.6% | 0 | 1 | https://trustmrr.com/startup/divvy |
 | Pokédex Checklist | n/d | $333 | +2.8% | -1.7% | 0 | 1 | https://trustmrr.com/startup/pok-dex-checklist |
-| 20-0 | n/d | $929 | -0.5% | +1.6% | 0 | 1 | https://trustmrr.com/startup/20-0 |
 | Unnamed Company | mobile-apps | $13,198 | -1.3% | +1.9% | 0 | 1 | https://trustmrr.com/startup/iptv-player-vpn-app-bundle |
-| Hidden Business | mobile-apps | $27,627 | -0.2% | +1.2% | 0 | 1 | https://trustmrr.com/startup/stealth-03 |
 | Supabase CMS | n/d | $345 | +0.3% | +0.7% | 0 | 1 | https://trustmrr.com/startup/supabase-cms |
-| OmegleWeb | community | $59,105 | -4.1% | +4.0% | 0 | 1 | https://trustmrr.com/startup/omegleweb |
 | Private Venture | n/d | $26,882 | -0.7% | +1.6% | 0 | 1 | https://trustmrr.com/startup/private-venture-60 |
 | LeadShark | sales | $19,260 | -1.9% | +1.2% | 0 | 1 | https://trustmrr.com/startup/leadshark |
 | AI Toolbox | utilities | $1,334 | +0.8% | +1.5% | 0 | 1 | https://trustmrr.com/startup/ai-toolbox |
 | Viducer.ai | n/d | $2,999 | +2.2% | -37.2% | 0 | 1 | https://trustmrr.com/startup/viducer-ai |
+| CreativeClaw | design-tools | $14,670 | +4.5% | -14.1% | 0 | 1 | https://trustmrr.com/startup/creativeclaw |
 | Buma Baby Tracker | n/d | $779 | +2.2% | -6.4% | 0 | 1 | https://trustmrr.com/startup/buma-baby-tracker |
-| Poket - Photobooth & Polaroid | n/d | $120 | -2.6% | +4.5% | 0 | 1 | https://trustmrr.com/startup/poket-photobooth-polaroid |
-| FaceKit | health-fitness | $26,677 | +4.4% | -7.3% | 0 | 1 | https://trustmrr.com/startup/facekit |
+| FaceKit | health-fitness | $26,611 | +3.1% | -5.6% | 0 | 1 | https://trustmrr.com/startup/facekit |
 | ADDINVOICES | n/d | $36 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/addinvoices |
 | Anonymous Startup | n/d | $20,717 | -4.5% | -4.6% | 0 | 0 | https://trustmrr.com/startup/adlibrary-com-1 |
 | Adspirer | n/d | $54,684 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/adspirer |
+| AEO Engine | ai | $189,610 | -0.3% | -6.8% | 0 | 0 | https://trustmrr.com/startup/aeo-engine |
 | Agentpedia Codes | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/agentpedia-codes |
-| Private Venture | n/d | $70,075 | -0.0% | +0.2% | 0 | 0 | https://trustmrr.com/startup/ai-startup |
+| Private Venture | n/d | $70,065 | -0.1% | +0.2% | 0 | 0 | https://trustmrr.com/startup/ai-startup |
 | Angel Match | fintech | $24,525 | -7.1% | -3.8% | 0 | 0 | https://trustmrr.com/startup/angel-match |
 | Anonymous Startup | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/anonymous-startup |
-| Stealth Venture | n/d | $39,273 | -2.3% | -0.2% | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-2 |
+| Stealth Venture | n/d | $38,812 | -4.0% | -2.3% | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-2 |
 | Anonymous Startup | n/d | $22,237 | -5.9% | -9.2% | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-20 |
-| Anonymous Startup | n/d | $235,607 | -10.4% | -2.2% | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-25 |
+| Anonymous Startup | n/d | $233,189 | -10.5% | -0.3% | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-25 |
 | Applausible | n/d | $71 | -0.0% | -6.3% | 0 | 0 | https://trustmrr.com/startup/applausible |
 | ApplyAll | productivity | $1,745 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/applyall |
 | Hidden Business | design-tools | $35,332 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/artboard-studio-inc |
+| ATELIER NUAGE | ecommerce | $12,294 | -0.0% | -0.0% | 0 | 0 | https://trustmrr.com/startup/atelier-nuage |
 | Avenue Ticketing, Inc. | entertainment | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/avenue-ticketing-inc |
 | Confidential Startup | n/d | $70,605 | -1.9% | +1.3% | 0 | 0 | https://trustmrr.com/startup/b2bsaas |
-| BackPedal Ltd | iot-hardware | $36,367 | -3.5% | -7.8% | 0 | 0 | https://trustmrr.com/startup/backpedal-ltd |
+| BackPedal Ltd | iot-hardware | $36,322 | -17.8% | -35.8% | 0 | 0 | https://trustmrr.com/startup/backpedal-ltd |
 | bangr.sh | n/d | $29 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/bangr-sh |
 | Based Labs AI | ai | $28,537 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/based-labs-ai |
 | BashBash Labs, LLC | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/bashbash-labs-llc |
@@ -429,34 +418,35 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Betta holdings | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/betta-holdings |
 | BettrBot | games | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/bettrbot |
 | BIG | n/d | $97,005 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/big |
-| Stealth Venture | n/d | $13,258 | +0.9% | -3.2% | 0 | 0 | https://trustmrr.com/startup/bottled |
-| Brand On Demand, Inc. | saas | $176,789 | -0.4% | +0.2% | 0 | 0 | https://trustmrr.com/startup/brand-on-demand-inc |
-| Calendesk | productivity | $21,443 | -0.2% | -2.8% | 0 | 0 | https://trustmrr.com/startup/calendesk |
-| Capgo | developer-tools | $34,014 | +1.0% | -0.1% | 0 | 0 | https://trustmrr.com/startup/capgo |
+| Stealth Venture | n/d | $13,223 | -1.1% | -6.3% | 0 | 0 | https://trustmrr.com/startup/bottled |
+| Brand On Demand, Inc. | saas | $176,733 | -0.6% | -0.2% | 0 | 0 | https://trustmrr.com/startup/brand-on-demand-inc |
+| Calendesk | productivity | $21,230 | -0.6% | -3.9% | 0 | 0 | https://trustmrr.com/startup/calendesk |
+| Capgo | developer-tools | $33,980 | +1.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/capgo |
 | Carnage Bot | n/d | $18,746 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/carnage-bot |
 | CartBoss | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/cartboss |
 | CBT ARTIFICIAL INTELLIGENCE TECHNOLOGY INC DBA ZUUZ | n/d | $4,397 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/cbt-artificial-intelligence-technology-inc-dba-zuuz |
 | Changelogfy | n/d | $3,876 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/changelogfy |
 | Chariot AI | no-code | $8,237 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/chariot-ai |
 | ChatDash, LLC | productivity | $28,524 | -17.1% | -15.7% | 0 | 0 | https://trustmrr.com/startup/chatdash-llc |
+| ChatSEO | n/d | $35,188 | +1.2% | -2.3% | 0 | 0 | https://trustmrr.com/startup/chatseo |
 | Aura Blaster | n/d | $92,000 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/chatsetter |
 | Clawhosters.com | n/d | $1,138 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/clawhosters-com |
 | Clickbait INC | ai | $74 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/clickbait-inc |
 | ClipVault | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/clipvault |
-| Codédex | ai | $79,964 | -1.1% | -0.3% | 0 | 0 | https://trustmrr.com/startup/codedex |
+| Codédex | ai | $80,029 | -0.7% | +0.4% | 0 | 0 | https://trustmrr.com/startup/codedex |
 | CoinPay | fintech | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/coinpay |
-| Cometly | ai | $196,525 | -0.3% | +0.2% | 0 | 0 | https://trustmrr.com/startup/cometly |
-| Comp AI | ai | $17,383 | -2.4% | -38.3% | 0 | 0 | https://trustmrr.com/startup/comp-ai |
+| Cometly | ai | $196,525 | +0.2% | +1.4% | 0 | 0 | https://trustmrr.com/startup/cometly |
 | Private Enterprise | marketplace | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/confidential-startup-2-1 |
-| ConvertLabs | saas | $27,957 | -1.4% | -1.0% | 0 | 0 | https://trustmrr.com/startup/convertlabs |
-| Convitede | n/d | $1,053 | -3.8% | -0.3% | 0 | 0 | https://trustmrr.com/startup/convitede |
-| Corey Chiu | n/d | $4,228 | -0.0% | -3.7% | 0 | 0 | https://trustmrr.com/startup/corey-chiu |
+| ConvertLabs | saas | $27,821 | -0.7% | +0.1% | 0 | 0 | https://trustmrr.com/startup/convertlabs |
+| Convitede | n/d | $1,039 | -4.4% | -0.6% | 0 | 0 | https://trustmrr.com/startup/convitede |
+| Corey Chiu | n/d | $4,218 | -1.2% | -5.3% | 0 | 0 | https://trustmrr.com/startup/corey-chiu |
 | Corsidia | education | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/corsidia |
 | Stealth Company | ecommerce | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/curet |
-| DataExpert / TechCreator | saas | $51,634 | -2.3% | -0.2% | 0 | 0 | https://trustmrr.com/startup/dataexpert-techcreator |
-| DataFast | n/d | $28,150 | -1.4% | -0.4% | 0 | 0 | https://trustmrr.com/startup/datafast |
+| DataExpert / TechCreator | saas | $51,618 | -2.3% | -0.6% | 0 | 0 | https://trustmrr.com/startup/dataexpert-techcreator |
+| DataFast | n/d | $28,051 | -1.0% | +0.9% | 0 | 0 | https://trustmrr.com/startup/datafast |
+| dayonelead | n/d | $892 | -5.2% | -5.2% | 0 | 0 | https://trustmrr.com/startup/dayonelead |
 | Decor Copilot | n/d | $30 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/decor-copilot |
-| Defined Chase | saas | $6,203 | -1.0% | -1.0% | 0 | 0 | https://trustmrr.com/startup/defined-chase |
+| Defined Chase | saas | $6,179 | -1.1% | -0.6% | 0 | 0 | https://trustmrr.com/startup/defined-chase |
 | Unnamed Company | mobile-apps | $58,168 | +1.1% | +0.4% | 0 | 0 | https://trustmrr.com/startup/depuff-ai |
 | Digestly | n/d | $8 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/digestly |
 | Dijital Link - Link in bio | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/dijital-link-link-in-bio |
@@ -464,7 +454,7 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | DLV Guide | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/dlv-guide |
 | Dog Walker Central | n/d | $64 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/dog-walker-central |
 | Doors Delivered | ecommerce | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/doors-delivered |
-| Dotmarket.eu - Achat / vente de business web | ecommerce | $12,133 | -2.7% | -1.5% | 0 | 0 | https://trustmrr.com/startup/dotmarket-eu |
+| Dotmarket.eu - Achat / vente de business web | ecommerce | $11,993 | -3.8% | -2.2% | 0 | 0 | https://trustmrr.com/startup/dotmarket-eu |
 | drills.golf | n/d | $33 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/drills-golf |
 | Dropkiller | analytics | $60,179 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/dropkiller |
 | DropPop | n/d | $27,758 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/droppop |
@@ -477,7 +467,7 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | FamilyPoints | n/d | $1,001 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/familypoints |
 | Private Venture | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/fast-scaling-saas |
 | Fiddl.art | entertainment | $1,334 | -1.3% | -21.0% | 0 | 0 | https://trustmrr.com/startup/fiddl-art |
-| Fidelatoo | customer-support | $6,849 | -0.3% | +0.2% | 0 | 0 | https://trustmrr.com/startup/fidelatoo |
+| Fidelatoo | customer-support | $6,788 | -1.1% | -0.4% | 0 | 0 | https://trustmrr.com/startup/fidelatoo |
 | Hidden Business | n/d | $1,588 | -3.6% | -3.6% | 0 | 0 | https://trustmrr.com/startup/fld |
 | Private Venture | n/d | $653 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/floynk |
 | FriendFilter + GroupFilter | saas | $8,237 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/friendfilter-groupfilter |
@@ -485,18 +475,20 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Gifts Qr | n/d | $79 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/gifts-qr |
 | GlobeFlix | n/d | $2 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/globeflix |
 | GoTall | health-fitness | $55,849 | -1.1% | +0.4% | 0 | 0 | https://trustmrr.com/startup/gotall |
-| GradientForge | n/d | $198 | -15.7% | -15.6% | 0 | 0 | https://trustmrr.com/startup/gradientforge |
+| GradientForge | n/d | $197 | -15.6% | -15.3% | 0 | 0 | https://trustmrr.com/startup/gradientforge |
 | GraphChinese | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/graphchinese |
 | Groups Watcher | n/d | $25,212 | -6.7% | -10.1% | 0 | 0 | https://trustmrr.com/startup/groups-watcher |
 | Gumroad | ecommerce | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/gumroad |
-| HabitKit | n/d | $34,897 | +1.6% | +0.1% | 0 | 0 | https://trustmrr.com/startup/habitkit |
+| HabitKit | n/d | $34,907 | +1.5% | -0.4% | 0 | 0 | https://trustmrr.com/startup/habitkit |
 | Hidden Business | n/d | $11,958 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/hidden-business |
-| Hidden Business | mobile-apps | $168,287 | -1.3% | -0.3% | 0 | 0 | https://trustmrr.com/startup/hidden-business-12 |
+| Hidden Business | mobile-apps | $167,985 | -1.3% | -0.2% | 0 | 0 | https://trustmrr.com/startup/hidden-business-12 |
 | Hidden Business | n/d | $798 | -2.4% | -2.4% | 0 | 0 | https://trustmrr.com/startup/hidden-business-2 |
 | Hidden Business | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/hidden-business-3 |
+| Hidden Business | n/d | $8,246 | -12.6% | -32.2% | 0 | 0 | https://trustmrr.com/startup/hidden-business-36 |
 | Stealth Company | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/hidden-company |
 | Hidden Jobs | n/d | $466 | -43.0% | -54.6% | 0 | 0 | https://trustmrr.com/startup/hidden-jobs |
 | Hidden Business | legal | $12,027 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/hidden-venture-12345 |
+| HSKLord | n/d | $270 | -0.2% | -7.6% | 0 | 0 | https://trustmrr.com/startup/hsklord |
 | hydranode.ai | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/hydranode-ai |
 | Private Enterprise | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/hype-social-media-strategy |
 | HypeProxies | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/hypeproxies |
@@ -506,17 +498,18 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Hidden Business | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/infinity |
 | InsiteGPT | n/d | $182 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/insitegpt |
 | Private Venture | saas | $45,963 | +0.6% | +0.0% | 0 | 0 | https://trustmrr.com/startup/interactive-video-saas |
-| KI Weekly | news-magazines | $57 | -6.4% | -1.2% | 0 | 0 | https://trustmrr.com/startup/ki-weekly |
+| Khosmos | fintech | $22,198 | -1.4% | -2.8% | 0 | 0 | https://trustmrr.com/startup/khosmos |
+| KI Weekly | news-magazines | $57 | -6.5% | -0.9% | 0 | 0 | https://trustmrr.com/startup/ki-weekly |
 | Kibu | ai | $234,319 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/kibu |
 | Kitze | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/kitze |
 | Knightvision | n/d | $232 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/knightvision |
 | Kome | utilities | $1,418 | -1.9% | -0.6% | 0 | 0 | https://trustmrr.com/startup/kome |
-| Kraft Agency Limited | marketing | $2,107 | -2.0% | -2.0% | 0 | 0 | https://trustmrr.com/startup/kraft-agency-limited |
-| LaDataViz | design-tools | $3,185 | -4.8% | -3.3% | 0 | 0 | https://trustmrr.com/startup/ladataviz |
-| Laper | entertainment | $53,129 | +2.4% | -3.6% | 0 | 0 | https://trustmrr.com/startup/laper |
-| Launch Club | marketing | $28,546 | -22.5% | -32.7% | 0 | 0 | https://trustmrr.com/startup/launch-club |
+| Kraft Agency Limited | marketing | $2,103 | -2.1% | -1.8% | 0 | 0 | https://trustmrr.com/startup/kraft-agency-limited |
+| LaDataViz | design-tools | $3,185 | -4.8% | -5.4% | 0 | 0 | https://trustmrr.com/startup/ladataviz |
+| Laper | entertainment | $52,549 | +0.3% | -6.7% | 0 | 0 | https://trustmrr.com/startup/laper |
+| Launch Club | marketing | $28,546 | -16.9% | -19.6% | 0 | 0 | https://trustmrr.com/startup/launch-club |
 | Stealth Company | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/light-co |
-| Liinks | productivity | $31,567 | -0.1% | -0.9% | 0 | 0 | https://trustmrr.com/startup/liinks |
+| Liinks | productivity | $31,696 | -0.1% | -1.2% | 0 | 0 | https://trustmrr.com/startup/liinks |
 | Limesnap | n/d | $657 | -6.7% | -9.6% | 0 | 0 | https://trustmrr.com/startup/limesnap |
 | Linkship | n/d | $19 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/linkship |
 | LIZAONAIR | social-media | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/lizaonair |
@@ -524,21 +517,21 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Localinvitation.com | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/localinvitation-com |
 | LocalRank.so | analytics | $23,690 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/localrank-so |
 | Luce | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/luce |
-| Lunchbreak | productivity | $30,588 | -2.4% | -0.4% | 0 | 0 | https://trustmrr.com/startup/lunchbreak |
+| Lunchbreak | productivity | $30,578 | -2.6% | -0.3% | 0 | 0 | https://trustmrr.com/startup/lunchbreak |
 | MaidsnBlack | marketplace | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/maidsnblack |
 | MangaTime | n/d | $775 | -1.0% | +0.1% | 0 | 0 | https://trustmrr.com/startup/mangatime |
 | maplead.io | n/d | $10 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/maplead-io |
 | Marky | marketing | $22,113 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/marky |
 | Maynuu | marketing | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/maynuu |
 | MDskills.ai | n/d | $79 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/mdskills-ai |
-| Anonymous Startup | health-fitness | $168,158 | -1.1% | -1.4% | 0 | 0 | https://trustmrr.com/startup/medical-practice-medical-consulting-agency |
+| Anonymous Startup | health-fitness | $167,233 | -1.1% | -0.9% | 0 | 0 | https://trustmrr.com/startup/medical-practice-medical-consulting-agency |
 | Memorable | fintech | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/memorable |
 | Hidden Business | n/d | $1,310 | -2.8% | +0.3% | 0 | 0 | https://trustmrr.com/startup/memoritree |
 | MimikFlow | n/d | $9,918 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/mimikflow |
 | Mixels.ai | n/d | $226 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/mixels-ai |
 | MonitUp | n/d | $1,367 | -0.7% | -1.4% | 0 | 0 | https://trustmrr.com/startup/monitup |
 | Private Enterprise | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/my-boost |
-| My X project 2 | n/d | $17,276 | -1.8% | -2.2% | 0 | 0 | https://trustmrr.com/startup/my-x-project-2 |
+| My X project 2 | n/d | $17,214 | -1.7% | -1.5% | 0 | 0 | https://trustmrr.com/startup/my-x-project-2 |
 | MyCater | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/mycater |
 | MyPlots | saas | $0 | -33.3% | -33.3% | 0 | 0 | https://trustmrr.com/startup/myplots |
 | Notilify | n/d | $7 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/notilify |
@@ -548,17 +541,16 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Okfans | community | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/okfans |
 | One Mint | no-code | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/one-mint |
 | OpenInbox.io | n/d | $308 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/openinbox-io |
-| own.page | n/d | $463 | -2.7% | -2.6% | 0 | 0 | https://trustmrr.com/startup/own-page |
 | Parallel Drive | ai | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/parallel-drive |
-| Confidential Startup | n/d | $35,635 | +0.3% | +0.3% | 0 | 0 | https://trustmrr.com/startup/parkeur |
+| Confidential Startup | n/d | $35,561 | -0.2% | -0.5% | 0 | 0 | https://trustmrr.com/startup/parkeur |
 | Pear MCP | n/d | $22 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/pear-mcp |
 | Personapp.io | n/d | $2,151 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/personapp-io |
 | Unnamed Company | utilities | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/photo-sharing |
-| Plutio (Super Work AI) | ai | $20,044 | +0.2% | +0.5% | 0 | 0 | https://trustmrr.com/startup/plutio-super-work-ai |
+| Pluma | n/d | $1,278 | -3.6% | -1.8% | 0 | 0 | https://trustmrr.com/startup/pluma |
 | PMSuite | customer-support | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/pmsuite |
 | PolyScout | n/d | $579 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/polyscout |
 | Porosheets | n/d | $31 | -39.0% | -11.0% | 0 | 0 | https://trustmrr.com/startup/porosheets |
-| POST BRIDGE | social-media | $49,015 | -2.0% | -2.8% | 0 | 0 | https://trustmrr.com/startup/post-bridge |
+| POST BRIDGE | social-media | $48,467 | -3.1% | -4.0% | 0 | 0 | https://trustmrr.com/startup/post-bridge |
 | Presscart | saas | $2,000 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/presscart |
 | PressWhizz | ai | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/presswhizz |
 | Private Enterprise | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/private-enterprise-16 |
@@ -570,10 +562,11 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Produce.so | n/d | $27,371 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/produce-so |
 | product0 | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/product0 |
 | Prompt Builder | n/d | $1,514 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/prompt-builder-1 |
-| Stealth Company | ai | $108,886 | +2.3% | -6.2% | 0 | 0 | https://trustmrr.com/startup/propgpt-ai-props-analysis |
+| Promptwise | n/d | $68,025 | +1.0% | -1.1% | 0 | 0 | https://trustmrr.com/startup/promptwise |
+| Stealth Company | ai | $108,886 | +0.6% | -8.8% | 0 | 0 | https://trustmrr.com/startup/propgpt-ai-props-analysis |
 | PROSP | sales | $128,005 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/prosp |
 | Qoest | n/d | $4,274 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/qoest |
-| Quantt | n/d | $5,679 | -4.7% | -4.7% | 0 | 0 | https://trustmrr.com/startup/quantt |
+| Quantt | n/d | $5,696 | -4.1% | -2.6% | 0 | 0 | https://trustmrr.com/startup/quantt |
 | RankAI | n/d | $56,533 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/rankai |
 | Rankr | ai | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/rankr |
 | Reddit Agency | analytics | $30,417 | -20.0% | -20.0% | 0 | 0 | https://trustmrr.com/startup/reddit-agency |
@@ -583,7 +576,7 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | RestoreBunny | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/restorebunny |
 | ReUGC | n/d | $150 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/reugc |
 | Rewarx AI Product Photography Generator | n/d | $4,702 | -3.5% | -6.3% | 0 | 0 | https://trustmrr.com/startup/rewarx-ai-product-photography-generator |
-| Rezi | ai | $238,001 | -1.3% | -1.3% | 0 | 0 | https://trustmrr.com/startup/rezi |
+| Rezi | ai | $237,790 | -1.1% | -0.7% | 0 | 0 | https://trustmrr.com/startup/rezi |
 | RichPredict - Football Predictions, Free Tips, Betting Tips | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/richpredict-football-predictions-free-tips-betting-tips |
 | Roofclaw | ai | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/roofclaw |
 | RoomBase | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/roombase |
@@ -591,24 +584,25 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Saikyo, LLC | marketing | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/saikyo-llc |
 | Salesrobot, INC | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/salesrobot-inc |
 | Scanly | n/d | $130 | +0.0% | -8.3% | 0 | 0 | https://trustmrr.com/startup/scanly |
-| SEOBOT | ai | $31,721 | -3.1% | -1.6% | 0 | 0 | https://trustmrr.com/startup/seobot |
+| SEOBOT | ai | $31,752 | -2.0% | +0.6% | 0 | 0 | https://trustmrr.com/startup/seobot |
 | Seozast | n/d | $16 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/seozast |
 | Sherpa | education | $25,773 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/sherpa |
 | ShipFast | ai | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/shipfast |
 | Shopquantum | analytics | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/shopquantum |
 | Shugert Marketing | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/shugert-marketing |
-| Simple Analytics | saas | $37,591 | -0.8% | -0.0% | 0 | 0 | https://trustmrr.com/startup/simple-analytics |
+| Simple Analytics | saas | $37,546 | -0.9% | -0.1% | 0 | 0 | https://trustmrr.com/startup/simple-analytics |
 | SitSense | n/d | $32 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/sitsense |
 | SkipCut | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/skipcut |
 | SKRT SKRRT | entertainment | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/skrt-skrrt |
 | SMMDealFinder.com | ai | $8,588 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/smmdealfinder-com |
-| Sneakmart | ecommerce | $108 | -1.0% | -1.0% | 0 | 0 | https://trustmrr.com/startup/sneakmart |
-| Socialcrawl | n/d | $1,072 | -1.2% | -1.0% | 0 | 0 | https://trustmrr.com/startup/socialcrawl |
-| Speel.co | n/d | $64,545 | -1.0% | -0.7% | 0 | 0 | https://trustmrr.com/startup/speel-co |
+| Sneakmart | ecommerce | $108 | -1.1% | -0.6% | 0 | 0 | https://trustmrr.com/startup/sneakmart |
+| Socialcrawl | n/d | $1,070 | -1.0% | -0.7% | 0 | 0 | https://trustmrr.com/startup/socialcrawl |
+| Speel.co | n/d | $64,447 | -1.0% | -0.5% | 0 | 0 | https://trustmrr.com/startup/speel-co |
+| Stack Influence | marketing | $27,892 | +0.5% | -4.8% | 0 | 0 | https://trustmrr.com/startup/stack-influence |
 | Stan | content-creation | $3,569,654 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/stan |
 | Private Venture | ecommerce | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/startup-c1c2309f6b2e |
 | StatsPanda.com | news-magazines | $25 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/statspanda-com |
-| Hidden Business | mobile-apps | $57,462 | -0.2% | -1.7% | 0 | 0 | https://trustmrr.com/startup/stealth-02 |
+| Hidden Business | mobile-apps | $57,462 | -0.1% | -1.1% | 0 | 0 | https://trustmrr.com/startup/stealth-02 |
 | Stealth Company | n/d | $135,899 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/stealth-company-17 |
 | Stealth Company | n/d | $747,069 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/stealth-company-23 |
 | Stealth Company | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/stealth-company-37 |
@@ -617,21 +611,22 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Private Venture | recruiting | $6,639 | -1.1% | +0.0% | 0 | 0 | https://trustmrr.com/startup/stealth-company-global-job-board |
 | Stealth Venture | mobile-apps | $98,545 | +2.2% | +1.1% | 0 | 0 | https://trustmrr.com/startup/stealth-venture-15 |
 | Stealth Venture | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/stealth-venture-23 |
-| Stealth Venture | n/d | $209,767 | -0.9% | -1.9% | 0 | 0 | https://trustmrr.com/startup/stealth-venture-3 |
+| Stealth Venture | n/d | $209,009 | -0.9% | -1.5% | 0 | 0 | https://trustmrr.com/startup/stealth-venture-3 |
 | Stealth Venture | n/d | $45,892 | -8.7% | -1.4% | 0 | 0 | https://trustmrr.com/startup/stealth-venture-34 |
 | STELLA PROXIES | saas | $636 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/stella-proxies |
 | studychat.app | n/d | $52 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/studychat-app |
 | Subclip | n/d | $42 | -24.4% | -25.9% | 0 | 0 | https://trustmrr.com/startup/subclip |
 | Supergrow | analytics | $79,479 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/supergrow |
 | Confidential Startup | n/d | $3,486 | -47.9% | -146.2% | 0 | 0 | https://trustmrr.com/startup/supersales |
+| SwiftSole | ecommerce | $4,232 | -2.1% | -1.7% | 0 | 0 | https://trustmrr.com/startup/swiftsole-development-llc-zafar-habib-mbr |
 | Talefy | ai | $24,114 | +0.5% | -1.0% | 0 | 0 | https://trustmrr.com/startup/talefy |
 | Taller | ai | $37,797 | -2.7% | -2.6% | 0 | 0 | https://trustmrr.com/startup/taller |
 | Tarkle | developer-tools | $500 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/tarkle |
 | Stealth Company | n/d | $66,980 | -2.6% | -1.6% | 0 | 0 | https://trustmrr.com/startup/teachizy-sas-maj-digital |
-| textbee | n/d | $4,536 | +0.0% | -0.4% | 0 | 0 | https://trustmrr.com/startup/textbee |
+| textbee | n/d | $4,536 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/textbee |
 | Textwork | real-estate | $2,004 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/textwork |
 | The Autopilot ( Newsletter ) | news-magazines | $645 | -8.9% | -8.8% | 0 | 0 | https://trustmrr.com/startup/the-autopilot-newsletter |
-| Think again | ai | $44 | -1.0% | -1.0% | 0 | 0 | https://trustmrr.com/startup/think-again |
+| Think again | ai | $44 | -1.1% | -0.6% | 0 | 0 | https://trustmrr.com/startup/think-again |
 | tinyCRM | n/d | $283 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/tinycrm |
 | Track My Geo | n/d | $4 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/track-my-geo |
 | Tribe Social | community | $28,271 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/tribe-social |
@@ -639,15 +634,16 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | True Moments | n/d | $29 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/true-moments |
 | Stealth Company | n/d | $100 | +0.0% | +1.5% | 0 | 0 | https://trustmrr.com/startup/true-permit |
 | TypeBoost | n/d | $16 | -0.1% | +0.1% | 0 | 0 | https://trustmrr.com/startup/typeboost |
-| Uncoflow | n/d | $696 | -1.0% | -1.0% | 0 | 0 | https://trustmrr.com/startup/uncoflow |
+| Uncoflow | n/d | $694 | -1.1% | -0.6% | 0 | 0 | https://trustmrr.com/startup/uncoflow |
+| Unsection | n/d | $10 | -98.3% | -41.8% | 0 | 0 | https://trustmrr.com/startup/unsection |
 | UV-Blocker | ecommerce | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/uv-blocker |
 | VECTOSOLVE | n/d | $1,795 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/vectosolve |
 | Verceltics — Hosting & Domains | n/d | $58 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/verceltics-hosting-domains |
-| Vid.AI | ai | $51,511 | +0.8% | -7.8% | 0 | 0 | https://trustmrr.com/startup/vidai-llc |
+| Vid.AI | ai | $51,632 | +1.0% | -5.7% | 0 | 0 | https://trustmrr.com/startup/vidai-llc |
+| VideoDubber.ai | n/d | $530 | +0.0% | -3.7% | 0 | 0 | https://trustmrr.com/startup/videodubber-ai |
 | Vignette ID - highway & toll payments. Route planner | mobile-apps | $36 | -0.8% | -1.3% | 0 | 0 | https://trustmrr.com/startup/vignette-id |
 | VirtualJK | n/d | $48,492 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/virtualjk |
-| Voxdub | n/d | $1,304 | -5.3% | -7.7% | 0 | 0 | https://trustmrr.com/startup/voxdub |
-| Web3Forms | developer-tools | $44,574 | +0.9% | -0.5% | 0 | 0 | https://trustmrr.com/startup/web3forms |
+| Web3Forms | developer-tools | $44,588 | +1.1% | +0.1% | 0 | 0 | https://trustmrr.com/startup/web3forms |
 | What's the app :)? | n/d | $699 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/what-s-the-app |
 | Whisper | n/d | $225 | +0.3% | -16.8% | 0 | 0 | https://trustmrr.com/startup/whisper |
 | WordPress Care Plans by Rootscope | n/d | $159 | -0.7% | n/d | 0 | 0 | https://trustmrr.com/startup/wordpress-care-plans-by-rootscope |
@@ -659,12 +655,13 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | ZyloChat | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/zylochat |
 | Aiexposuretool.com | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/aiexposuretool-com |
 | Failment | n/d | $251 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/failment |
+| Apiframe | developer-tools | $32,987 | -5.4% | -2.9% | 0 | 0 | https://trustmrr.com/startup/apiframe |
 | Authex | security | $897 | -4.2% | -4.0% | 0 | 0 | https://trustmrr.com/startup/authex |
 | ChatEasy | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/chateasy |
 | FlowBaseHQ | n/d | $89 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/flowbasehq |
 | Leverage | real-estate | $15,499 | -46.6% | -47.1% | 0 | 0 | https://trustmrr.com/startup/leverage |
 | Stealth Venture | n/d | $400 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/stealth-venture-10 |
-| Private Venture | saas | $246,780 | +0.0% | +1.1% | 0 | 0 | https://trustmrr.com/startup/kl23iod2mdka |
+| Private Venture | saas | $246,780 | +0.0% | +0.4% | 0 | 0 | https://trustmrr.com/startup/kl23iod2mdka |
 | Unnamed Company | ecommerce | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/zachis-stealth-comp |
 | Abun.com | n/d | $125 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/abun-com |
 | PostKing | n/d | $125 | -11.3% | -11.3% | 0 | 0 | https://trustmrr.com/startup/postking |
@@ -675,15 +672,15 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Indie Chains | n/d | $14 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/indie-chains |
 | Tyched | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/tyched |
 | UntalkedSEO | n/d | $18 | +0.0% | -28.6% | 0 | 0 | https://trustmrr.com/startup/untalkedseo |
+| 20-0 | n/d | $924 | -1.1% | +0.5% | 0 | 0 | https://trustmrr.com/startup/20-0 |
 | Private Venture | no-code | $15,245 | -0.6% | -0.6% | 0 | 0 | https://trustmrr.com/startup/ai-website-builder |
 | AIRIX - AEO / AI Visibility Platform | n/d | $975 | -8.6% | -7.5% | 0 | 0 | https://trustmrr.com/startup/airix-aeo-ai-visibility-platform |
 | Aldena | n/d | $1 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/aldena |
-| Analyse | n/d | $249 | +0.0% | -7.3% | 0 | 0 | https://trustmrr.com/startup/analyse |
+| Analyse | n/d | $236 | -5.2% | -12.6% | 0 | 0 | https://trustmrr.com/startup/analyse |
 | Anonymous Startup | travel | $8,205 | -2.8% | -2.7% | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-31 |
 | BenchLM | news-magazines | $58 | -40.7% | -477.1% | 0 | 0 | https://trustmrr.com/startup/benchlm |
 | BetterMix | n/d | $19 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/bettermix |
-| Blabla | n/d | $5,785 | -0.0% | -0.6% | 0 | 0 | https://trustmrr.com/startup/blabla |
-| Chess It Up | n/d | $309 | -17.4% | -37.3% | 0 | 0 | https://trustmrr.com/startup/chess-it-up |
+| Blabla | n/d | $5,767 | -0.6% | -1.4% | 0 | 0 | https://trustmrr.com/startup/blabla |
 | CoachPage | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/coachpage |
 | ContractorCounter | n/d | $54 | -28.8% | -222.2% | 0 | 0 | https://trustmrr.com/startup/contractorcounter |
 | Corvidly | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/corvidly |
@@ -706,7 +703,6 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Tomato.gg | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/tomato-gg |
 | TrackAI | health-fitness | $19,437 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/trackai |
 | UnfollowersTrack | n/d | $2,536 | -10.4% | -15.2% | 0 | 0 | https://trustmrr.com/startup/unfollowerstrack |
-| Private Venture | games | $1,477 | -13.3% | -6.3% | 0 | 0 | https://trustmrr.com/startup/waifu |
 | WhittleOS | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/whittleos |
 | XFastest (Startup for Sale) | n/d | $152 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/xfastest |
 | Camzy | n/d | $30 | +0.4% | +0.4% | 0 | 0 | https://trustmrr.com/startup/camzy |
@@ -715,7 +711,6 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Dup - Duplicate Photo & Video | n/d | $2 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/dup-duplicate-photo-video |
 | KICKOFF - LIVESCORE | n/d | $3 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/kickoff-livescore |
 | retailerpjobs | n/d | $22 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/retailerpjobs |
-| Ring Widget - Oura Ring widgets | n/d | $276 | +0.6% | -8.5% | 0 | 0 | https://trustmrr.com/startup/ring-widget-widgets-for-oura-ring |
 | GojiberryAI | ai | $424,368 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/superfruits |
 | AppPage | n/d | $172 | -0.5% | -9.4% | 0 | 0 | https://trustmrr.com/startup/apppage |
 | HEDGEFUN | n/d | $0 | -100.0% | -100.0% | 0 | 0 | https://trustmrr.com/startup/hedgefun |
@@ -739,8 +734,9 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Confidential Startup | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/confidential-startup-25 |
 | Driplist | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/driplist |
 | Klyk | n/d | $390 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/klyk |
-| ProductPrepa | n/d | $1,624 | -14.6% | -18.8% | 0 | 0 | https://trustmrr.com/startup/productprepa |
+| ProductPrepa | n/d | $1,626 | -9.9% | -3.5% | 0 | 0 | https://trustmrr.com/startup/productprepa |
 | Prop Metrics, LLC | n/d | $50 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/prop-metrics-llc |
+| SoldComps | real-estate | $25,894 | -0.0% | -9.7% | 0 | 0 | https://trustmrr.com/startup/soldcomps |
 | HÄNG | ecommerce | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/wehang |
 | Hirevate | n/d | $30 | -50.0% | -50.0% | 0 | 0 | https://trustmrr.com/startup/hirevate |
 | DYQR | n/d | $10 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/meathill-llc |
@@ -748,12 +744,14 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Karmable, Inc. | n/d | $16,500 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/karmable-inc |
 | MakerThrive | community | $1,200 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/makerthrive |
 | MON ATELIER | n/d | $2,895 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/mon-atelier |
+| Vetorizador | n/d | $8 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/vetorizador |
 | Zylo | n/d | $138 | -12.4% | -12.4% | 0 | 0 | https://trustmrr.com/startup/zylo |
 | Chartsy | n/d | $80 | -26.6% | -26.6% | 0 | 0 | https://trustmrr.com/startup/chartsy |
-| Minerva | n/d | $55 | -1.0% | -0.8% | 0 | 0 | https://trustmrr.com/startup/minerva33 |
+| Minerva | n/d | $55 | -1.0% | -0.6% | 0 | 0 | https://trustmrr.com/startup/minerva33 |
 | Warmap.lol | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/warmap |
 | Bitcoinworld | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/bitcoinworld |
 | Private Enterprise | n/d | $16 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/secret-app |
+| Hidden Business | mobile-apps | $27,627 | -0.6% | -0.2% | 0 | 0 | https://trustmrr.com/startup/stealth-03 |
 | Anonymous Startup | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-44 |
 | Aurabid.now | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/ch-group-international-llc |
 | CharacterGPT: Celebrity Chat | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/charactergpt-celebrity-chat |
@@ -779,8 +777,9 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | AllToken | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/alltoken |
 | Athletiks | health-fitness | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/athletiks |
 | Mediaboost | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/mediaboost |
+| OmegleWeb | community | $59,022 | -6.6% | -0.4% | 0 | 0 | https://trustmrr.com/startup/omegleweb |
 | Prism | n/d | $9 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/prism |
-| QR Code AI | n/d | $14,674 | -1.2% | -2.3% | 0 | 0 | https://trustmrr.com/startup/qr-code-ai |
+| QR Code AI | n/d | $14,587 | -1.5% | -2.2% | 0 | 0 | https://trustmrr.com/startup/qr-code-ai |
 | Reframe: AI Voice Agent for Businesses | n/d | $390 | -0.5% | -207.8% | 0 | 0 | https://trustmrr.com/startup/reframe-cx-inc |
 | Seoduel.com | n/d | $79 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/seoduel-com |
 | thestrip | n/d | $6 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/thestrip |
@@ -794,6 +793,7 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | 1418 Technologies LLC | n/d | $63 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/1418-technologies-llc |
 | JustShipIt | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/justshipit |
 | Motoko UI | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/motoko-ui |
+| Orbitagents | n/d | $3,556 | -11.3% | -75.6% | 0 | 0 | https://trustmrr.com/startup/orbitagents |
 | Portrait Director | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/portrait-director |
 | Stoïk | fintech | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/stoik |
 | AI voice calls | n/d | $338 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/ai-voice-calls |
@@ -805,7 +805,7 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | AMBROSELLI ARNAUD | n/d | $9 | -0.4% | +1.0% | 0 | 0 | https://trustmrr.com/startup/i18n-keyless |
 | ReelsMeals | n/d | $18 | -0.8% | -6.5% | 0 | 0 | https://trustmrr.com/startup/reelsmeals |
 | HitBid | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/hitbid |
-| LaunchPost.app | n/d | $13 | -1.2% | -1.1% | 0 | 0 | https://trustmrr.com/startup/launchpostapp |
+| LaunchPost.app | n/d | $13 | -1.0% | -0.8% | 0 | 0 | https://trustmrr.com/startup/launchpostapp |
 | Tern | n/d | $7 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/tern |
 | ReelMeal | n/d | $11 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/reelmeal |
 | Stealth Venture | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/stealth-venture-27 |
@@ -815,7 +815,7 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Playoff Pick'Ems | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/playoff-pick-ems |
 | Proofwalk | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/proofwalk |
 | WaterChamp: Hydration & Caffeine Tracker | n/d | $31 | -9.0% | -8.5% | 0 | 0 | https://trustmrr.com/startup/waterchamp |
-| analytra | n/d | $213 | -0.7% | n/d | 0 | 0 | https://trustmrr.com/startup/analytra |
+| analytra | n/d | $213 | -1.1% | n/d | 0 | 0 | https://trustmrr.com/startup/analytra |
 | Brevik | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/brevik |
 | Marclou | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/marclou-1 |
 | SoundScrub | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/soundscrub |
@@ -843,12 +843,11 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Anonymous Startup | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-53 |
 | IndieNeed | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/indie-need |
 | Private Enterprise | n/d | $494 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/private-enterprise-48 |
-| White Glove Content | social-media | $59,602 | -5.0% | -5.5% | 0 | 0 | https://trustmrr.com/startup/white-glove-content |
+| White Glove Content | social-media | $59,133 | -4.7% | -3.2% | 0 | 0 | https://trustmrr.com/startup/white-glove-content |
 | Anonymous Startup | n/d | $311 | -9.2% | -13.9% | 0 | 0 | https://trustmrr.com/startup/anonymous-startup-32 |
 | BIRAȘ FLAVIUS-CĂTĂLIN PERSOANĂ FIZICĂ AUTORIZATĂ | n/d | $68 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/bira-flavius-c-t-lin-persoan-fizic-autorizat |
 | MIRRA | n/d | $51 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/mirra |
 | Private Venture | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/primewaaag |
-| Stealth Venture | n/d | $2,758 | -2.6% | -7.9% | 0 | 0 | https://trustmrr.com/startup/startup-14ede378a26e |
 | AE Layer Tool | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/aelayerstool |
 | depopdrop.live | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/depopdrop-live |
 | securenow.ai | n/d | $1,613 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/securenow-ai |
@@ -862,31 +861,30 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | xingqiaosub | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/xingqiaosub |
 | Rentay | n/d | $325 | +0.4% | -15.0% | 0 | 0 | https://trustmrr.com/startup/rentay |
 | Talent Tech Global Limited | developer-tools | $10 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/talent-tech-global-limited |
-| Dataford Inc. | education | $37,815 | +1.2% | -0.6% | 0 | 0 | https://trustmrr.com/startup/dataford-inc |
+| Dataford Inc. | education | $37,319 | +0.4% | -0.2% | 0 | 0 | https://trustmrr.com/startup/dataford-inc |
 | Festejar | entertainment | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/festejar |
 | INTERNI IA | n/d | $39 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/interni-ia |
-| Podawaa | marketing | $61,223 | -0.6% | +1.1% | 0 | 0 | https://trustmrr.com/startup/podawaa |
+| Podawaa | marketing | $61,056 | -0.8% | -0.1% | 0 | 0 | https://trustmrr.com/startup/podawaa |
 | SlapMac Go | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/slapmac-go |
 | slidelabs.net | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/slidelabs-net |
 | Private Enterprise | saas | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/zescale |
 | AitThemes | n/d | $45 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/ait |
 | AppSignals | n/d | $7 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/appsignals |
 | Loop Mind | n/d | $62 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/loop-mind |
-| PeptIQ | health-fitness | $14,697 | -1.3% | -3.6% | 0 | 0 | https://trustmrr.com/startup/peptiq |
 | MyHand | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/ppramanik62 |
+| traxy.ai | sales | $54,526 | +2.0% | +0.9% | 0 | 0 | https://trustmrr.com/startup/traxy-ai |
 | AivaStark | n/d | $79 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/aivastark |
-| LinkPost | n/d | $4,801 | -0.2% | -0.1% | 0 | 0 | https://trustmrr.com/startup/linkpost |
 | Made With JEV | n/d | $130 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/made-with-jev |
 | mdedit.ai | n/d | $39 | +0.0% | -85.0% | 0 | 0 | https://trustmrr.com/startup/mdedit-ai |
 | Pastel | ai | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/pastel |
 | Tucket | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/tucket |
 | CodeHype.ai - Product Hunt Alternative to Launch Your SaaS & Get Discovered by Google & AI Search. | n/d | $584 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/codehype |
-| Job Bridge | recruiting | $1,650 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/job-bridge |
+| Job Bridge | recruiting | $1,650 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/job-bridge |
 | nearfind.online | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/nearfindonline |
 | Remix Mart | n/d | $15 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/remix-mart |
 | Fisc AI from Heberking | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/fisc-ai-from-heberking |
 | LandBankSearch.com | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/landbanksearch-com |
-| Unnamed Company | n/d | $92,288 | +0.6% | +2.0% | 0 | 0 | https://trustmrr.com/startup/unnamed-company-49 |
+| Unnamed Company | n/d | $91,915 | +0.2% | +1.6% | 0 | 0 | https://trustmrr.com/startup/unnamed-company-49 |
 | Windmill Growth, LLC | marketing | $118,547 | -1.0% | -3.2% | 0 | 0 | https://trustmrr.com/startup/windmill-growth-llc |
 | Focal | n/d | $392 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/focal |
 | GLOWY | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/glowy |
@@ -902,10 +900,11 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Invoala | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/invoala |
 | AntForms | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/antforms |
 | Hidden Business | n/d | $42 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/arcotype |
-| isMalicious | n/d | $1,608 | -7.4% | -1.3% | 0 | 0 | https://trustmrr.com/startup/ismalicious |
 | KittyMessages | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/kittymessages |
+| Poket - Photobooth & Polaroid | n/d | $119 | -3.7% | -0.3% | 0 | 0 | https://trustmrr.com/startup/poket-photobooth-polaroid |
 | Private Enterprise | n/d | $9 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/private-enterprise-44 |
 | Stealth Venture | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/startup-dc384319ddd4 |
+| Hypit-AI | n/d | $18,090 | -0.5% | -13.1% | 0 | 0 | https://trustmrr.com/startup/hypit-ai |
 | The Pepino Brand | n/d | $108 | -0.2% | n/d | 0 | 0 | https://trustmrr.com/startup/the-pepino-brand |
 | VoteMapper | n/d | $15 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/votemapper |
 | AppBird AI | games | $25,420 | +0.9% | +0.4% | 0 | 0 | https://trustmrr.com/startup/appbird |
@@ -915,13 +914,14 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | fuelprice.io | n/d | $764 | -7.2% | -15.4% | 0 | 0 | https://trustmrr.com/startup/fuelprice-io |
 | Helios | productivity | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/helios |
 | ihatepdf.cv | n/d | $1,194 | +0.0% | -33.4% | 0 | 0 | https://trustmrr.com/startup/ihatepdf-cv |
-| LeadX | sales | $33,615 | +0.0% | -7.6% | 0 | 0 | https://trustmrr.com/startup/leadx |
+| Launch Llama Tools | n/d | $924 | -2.0% | -2.0% | 0 | 0 | https://trustmrr.com/startup/launch-llama-tools |
+| LeadX | sales | $31,615 | -5.9% | -14.3% | 0 | 0 | https://trustmrr.com/startup/leadx |
 | Michael Veail | customer-support | $22,624 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/michael-veail |
-| Scouting Stats AI | n/d | $3,678 | -2.1% | -2.1% | 0 | 0 | https://trustmrr.com/startup/scouting-stats-ai |
-| LC | n/d | $5,635 | -0.0% | -4.8% | 0 | 0 | https://trustmrr.com/startup/lc |
+| Scouting Stats AI | n/d | $3,664 | -3.3% | -2.4% | 0 | 0 | https://trustmrr.com/startup/scouting-stats-ai |
+| LC | n/d | $5,635 | -0.0% | -1.2% | 0 | 0 | https://trustmrr.com/startup/lc |
 | StreamNeo | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/streamneo |
 | All Love Here | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/all-love-here |
-| Nutria (9e3eaa) | health-fitness | $46,999 | +0.4% | +0.0% | 0 | 0 | https://trustmrr.com/startup/nutria-9e3eaa |
+| Nutria (9e3eaa) | health-fitness | $47,005 | +0.5% | -0.1% | 0 | 0 | https://trustmrr.com/startup/nutria-9e3eaa |
 | Pet Plus Us | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/pet-plus-us |
 | Bytesweep | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/bytesweep |
 | ClearBar Mac App | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/clearbar-mac-app |
@@ -930,12 +930,12 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | ScrapeAtlas | n/d | $17 | -0.1% | -0.0% | 0 | 0 | https://trustmrr.com/startup/scrapeatlas |
 | Habitrex | n/d | $6 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/habitrex |
 | llmstxt.studio | n/d | $48 | -0.3% | -0.5% | 0 | 0 | https://trustmrr.com/startup/llmstxt-studio |
-| Otomizer | n/d | $267 | -40.0% | -23.2% | 0 | 0 | https://trustmrr.com/startup/otomizer |
-| Private Venture | ai | $41,675 | -0.3% | -4.9% | 0 | 0 | https://trustmrr.com/startup/private-venture-84 |
+| Otomizer | n/d | $267 | -39.9% | -64.8% | 0 | 0 | https://trustmrr.com/startup/otomizer |
+| Private Venture | ai | $41,676 | -0.1% | -4.9% | 0 | 0 | https://trustmrr.com/startup/private-venture-84 |
 | THE BLIZZARD WIZARD - Snow Removal Company | green-tech | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/the-blizzard-wizard-snow-removal-company |
-| GPS Map Camera – Geotag Photos | n/d | $151 | -3.1% | -1.2% | 0 | 0 | https://trustmrr.com/startup/gps-map-camera |
+| June | n/d | $1,007 | -1.0% | -1.0% | 0 | 0 | https://trustmrr.com/startup/june |
 | Pactole | n/d | $46 | -0.4% | -0.3% | 0 | 0 | https://trustmrr.com/startup/pactole |
-| Pingjobs | n/d | $24 | -0.3% | -0.2% | 0 | 0 | https://trustmrr.com/startup/pingjobs |
+| Pingjobs | n/d | $24 | -0.0% | +0.4% | 0 | 0 | https://trustmrr.com/startup/pingjobs |
 | Screenshow | n/d | $574 | +0.0% | n/d | 0 | 0 | https://trustmrr.com/startup/screenshow |
 | ContextBlur | n/d | $3 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/contextblur |
 | Arc: AI Assistant | n/d | $1 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/arc-ai-assistant |
@@ -957,8 +957,9 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | AutoWP | n/d | $446 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/autowp |
 | Backlink Checker | n/d | $72 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/backlink-checker |
 | Made with Lovable | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/made-with-lovable |
-| Stealth Venture | n/d | $540 | -5.1% | -14.5% | 0 | 0 | https://trustmrr.com/startup/startup-982cf9238165 |
+| Stealth Venture | n/d | $540 | +0.0% | -3.8% | 0 | 0 | https://trustmrr.com/startup/startup-982cf9238165 |
 | Work With Alex V | n/d | $754 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/work-with-alex-v |
+| Gomotion AI | n/d | $75,648 | +2.5% | -5.0% | 0 | 0 | https://trustmrr.com/startup/iker |
 | Skillmaxing | n/d | $16 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/skillmaxing |
 | SpaceFree | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/spacefree |
 | SubMan | n/d | $232 | -20.5% | -20.6% | 0 | 0 | https://trustmrr.com/startup/subman |
@@ -967,7 +968,7 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | Stivio | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/stivio |
 | BrandShots | n/d | $10 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/brandshots |
 | Layover+ | n/d | $3 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/layoverplus |
-| Nutree | n/d | $4,510 | -9.6% | -19.9% | 0 | 0 | https://trustmrr.com/startup/nutree |
+| Nutree | n/d | $4,435 | -10.7% | -18.8% | 0 | 0 | https://trustmrr.com/startup/nutree |
 | Tether | n/d | $11 | +0.0% | -47.3% | 0 | 0 | https://trustmrr.com/startup/tether |
 | Intentsly | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/intentsly |
 | Runifit | n/d | $80 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/runifit |
@@ -977,25 +978,28 @@ Tutte le startup con storico sufficiente, ordinate per score.
 | ImageRoute | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/imageroute |
 | walldecor.io | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/walldecor-io |
 | Alchie | n/d | $10,426 | -13.7% | -18.1% | 0 | 0 | https://trustmrr.com/startup/alchie |
-| ECOMSTATEMENT.COM | n/d | $1,135 | -1.0% | -0.9% | 0 | 0 | https://trustmrr.com/startup/ecomstatement-com |
-| Private Enterprise | n/d | $13,096 | +1.1% | -10.4% | 0 | 0 | https://trustmrr.com/startup/private-enterprise-64 |
+| ECOMSTATEMENT.COM | n/d | $1,131 | -1.0% | -0.6% | 0 | 0 | https://trustmrr.com/startup/ecomstatement-com |
+| Task Pocket | n/d | $8 | +0.0% | -100.0% | 0 | 0 | https://trustmrr.com/startup/task-pocket |
 | Toolfound | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/toolfound |
 | Agentsy.report | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/agentsy |
 | FoundersDeck | n/d | $36 | +0.3% | -0.3% | 0 | 0 | https://trustmrr.com/startup/foundersdeck |
 | INXANITY Labs — Browser Gaming & AI Modding Platform | n/d | $770 | -20.8% | -32.5% | 0 | 0 | https://trustmrr.com/startup/inxanity-labs |
 | KathaDaily | n/d | $2 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/kathadaily |
-| Stealth Company | n/d | $25,178 | -4.6% | -16.6% | 0 | 0 | https://trustmrr.com/startup/stealth-company-16 |
-| Stealth Company | mobile-apps | $25,991 | -3.7% | -0.6% | 0 | 0 | https://trustmrr.com/startup/aikeyboard |
+| Stealth Company | mobile-apps | $25,947 | -3.7% | -1.3% | 0 | 0 | https://trustmrr.com/startup/aikeyboard |
 | Artplayer | n/d | $73 | -11.0% | -39.1% | 0 | 0 | https://trustmrr.com/startup/artplayer |
 | ebookdone.com | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/ebookdone-com |
 | SkillVault | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/skillvault |
 | Illos | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/illos |
 | Prompt Motion | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/prompt-motion |
 | UdonBoost | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/udonboost |
+| Stealth Company | n/d | $276 | -12.3% | -206.1% | 0 | 0 | https://trustmrr.com/startup/stealth-company-85 |
 | APIPod | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/apipod |
 | Private Venture | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/hugo-mobile-app-04 |
 | pdfs.build | n/d | $205 | +0.0% | -31.4% | 0 | 0 | https://trustmrr.com/startup/pdfs-build |
 | Berrycrawl | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/berrycrawl |
 | Scowld - AI Voice Companion | n/d | $8 | -77.0% | -412.7% | 0 | 0 | https://trustmrr.com/startup/scowld |
+| Private Venture | marketing | $31,467 | -4.3% | -6.6% | 0 | 0 | https://trustmrr.com/startup/startup-532037cbd4f0 |
 | TechAccountingPro | crypto-web3 | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/techaccountingpro |
 | comedeez | n/d | $18 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/comedeez |
+| Papertunnel | n/d | $0 | n/d | n/d | 0 | 0 | https://trustmrr.com/startup/papertunnel |
+| Printotr Aı | n/d | $150 | +0.0% | +0.0% | 0 | 0 | https://trustmrr.com/startup/printotr-a |
